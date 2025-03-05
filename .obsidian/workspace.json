@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a459d4ae50f32625",
+        "id": "d4ff68accb9f06fd",
         "type": "tabs",
         "children": [
           {
-            "id": "935656bf02eeb101",
+            "id": "3c9ea0922c38cfbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Какая-то заметка.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Какая-то заметка"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -169,7 +165,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "935656bf02eeb101",
+  "active": "05dd32921ca8d796",
   "lastOpenFiles": [
     "Какая-то заметка.md",
     "Cинхронизация Obsidian через Git.md",
