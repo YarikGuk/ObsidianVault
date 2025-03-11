@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "576e1a14d58b0b7d",
+        "id": "c8af99ad9c6412a5",
         "type": "tabs",
         "children": [
           {
-            "id": "534b0153428d80b3",
+            "id": "759f224acba328c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "canvas",
+              "state": {
+                "file": "автомойка.canvas",
+                "viewState": {
+                  "x": -305.3913260617891,
+                  "y": 861.3299769650424,
+                  "zoom": -0.8132153300196086
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "автомойка"
             }
           }
         ]
@@ -165,13 +172,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c0ef6c584c0777b2",
+  "active": "759f224acba328c8",
   "lastOpenFiles": [
+    "Автомойка - Начало.md",
+    "README.md",
+    "автомойка.canvas",
     "Cинхронизация Obsidian через Git.md",
     "Тест.md",
     "впар.md",
     "аьрщпьлощпр.md",
-    "автомойка.canvas",
     "Cинхронизация Obsidian через Жид.md",
     "ьтипавыф.md",
     "Какая-то заметка.md",
