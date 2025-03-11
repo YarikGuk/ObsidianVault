@@ -11,17 +11,14 @@
             "id": "759f224acba328c8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "автомойка.canvas",
-                "viewState": {
-                  "x": -305.3913260617891,
-                  "y": 861.3299769650424,
-                  "zoom": -0.8132153300196086
-                }
+                "file": "Автомойка - Начало.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "автомойка"
+              "icon": "lucide-file",
+              "title": "Автомойка - Начало"
             }
           }
         ]
@@ -174,9 +171,9 @@
   },
   "active": "759f224acba328c8",
   "lastOpenFiles": [
+    "автомойка.canvas",
     "Автомойка - Начало.md",
     "README.md",
-    "автомойка.canvas",
     "Cинхронизация Obsidian через Git.md",
     "Тест.md",
     "впар.md",
