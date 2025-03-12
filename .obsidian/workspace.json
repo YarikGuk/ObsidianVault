@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c8af99ad9c6412a5",
+        "id": "31f46642deebffa1",
         "type": "tabs",
         "children": [
           {
-            "id": "759f224acba328c8",
+            "id": "150cb400f28442d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Автомойка - Начало.md",
-                "mode": "source",
-                "source": false
+                "file": "автомойка.canvas",
+                "viewState": {
+                  "x": 1788.3371135722737,
+                  "y": 1332.8864766946208,
+                  "zoom": -2.3753268916127275
+                }
               },
-              "icon": "lucide-file",
-              "title": "Автомойка - Начало"
+              "icon": "lucide-layout-dashboard",
+              "title": "автомойка"
             }
           }
         ]
@@ -77,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 216.5,
+    "collapsed": true
   },
   "right": {
     "id": "5ddb635ca4d560e9",
@@ -169,10 +173,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "759f224acba328c8",
+  "active": "150cb400f28442d7",
   "lastOpenFiles": [
-    "автомойка.canvas",
+    "кеш/Pasted image 20250312223139.png",
+    "кеш/Pasted image 20250312223051.png",
+    "кеш/Pasted image 20250312222913.png",
+    "кеш/Pasted image 20250312222741.png",
+    "кеш/Pasted image 20250312222549.png",
+    "кеш/Pasted image 20250312222326.png",
+    "кеш/Pasted image 20250312222321.png",
+    "кеш/Pasted image 20250312222218.png",
+    "кеш/Pasted image 20250312222128.png",
+    "кеш/Pasted image 20250312220841.png",
+    "кеш/Pasted image 20250312220823.png",
     "Автомойка - Начало.md",
+    "автомойка.canvas",
     "README.md",
     "Cинхронизация Obsidian через Git.md",
     "Тест.md",
@@ -186,7 +201,6 @@
     "проверка.md",
     "Без названия",
     "кеш/desktop.ini",
-    "кеш/Pasted image 20250227071244.png",
     "кеш",
     "Добро пожаловать.md"
   ]
