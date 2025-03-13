@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "31f46642deebffa1",
+        "id": "11b8951d798fee0f",
         "type": "tabs",
         "children": [
           {
-            "id": "150cb400f28442d7",
+            "id": "348f45a797f6f727",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "автомойка.canvas",
                 "viewState": {
-                  "x": 1788.3371135722737,
-                  "y": 1332.8864766946208,
-                  "zoom": -2.3753268916127275
+                  "x": 751.117783268056,
+                  "y": 833.4587141870367,
+                  "zoom": -2
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 216.5
   },
   "right": {
     "id": "5ddb635ca4d560e9",
@@ -173,8 +172,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "150cb400f28442d7",
+  "active": "348f45a797f6f727",
   "lastOpenFiles": [
+    "автомойка.canvas",
     "кеш/Pasted image 20250312223139.png",
     "кеш/Pasted image 20250312223051.png",
     "кеш/Pasted image 20250312222913.png",
@@ -185,9 +185,7 @@
     "кеш/Pasted image 20250312222218.png",
     "кеш/Pasted image 20250312222128.png",
     "кеш/Pasted image 20250312220841.png",
-    "кеш/Pasted image 20250312220823.png",
     "Автомойка - Начало.md",
-    "автомойка.canvas",
     "README.md",
     "Cинхронизация Obsidian через Git.md",
     "Тест.md",
