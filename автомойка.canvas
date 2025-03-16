@@ -1419,6 +1419,24 @@
       },
       "toNode": "7b4311fc5ce37198",
       "toSide": "left"
+    },
+    {
+      "fromNode": "711ed0ec2047a77f",
+      "fromSide": "left",
+      "id": "dd8614f867552c58",
+      "styleAttributes": {
+      },
+      "toNode": "aeabf253dd32915f",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "711ed0ec2047a77f",
+      "fromSide": "left",
+      "id": "37c4c17307eab631",
+      "styleAttributes": {
+      },
+      "toNode": "29030a89d6352566",
+      "toSide": "right"
     }
   ],
   "nodes": [
@@ -3314,6 +3332,28 @@
       "width": 260,
       "x": 300,
       "y": 340
+    },
+    {
+      "height": 60,
+      "id": "aeabf253dd32915f",
+      "styleAttributes": {
+      },
+      "text": "СРМ",
+      "type": "text",
+      "width": 260,
+      "x": -940,
+      "y": 980
+    },
+    {
+      "height": 90,
+      "id": "29030a89d6352566",
+      "styleAttributes": {
+      },
+      "text": "партнерская система для каршерингов/такси они приезжают ночью",
+      "type": "text",
+      "width": 260,
+      "x": -940,
+      "y": 1050
     }
   ]
 }
