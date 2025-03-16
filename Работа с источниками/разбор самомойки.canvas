@@ -1,0 +1,2206 @@
+{
+  "edges": [
+    {
+      "fromNode": "bdc6cae9c1a151fd",
+      "fromSide": "bottom",
+      "id": "cd0fdd294d34bdaa",
+      "styleAttributes": {
+      },
+      "toNode": "796bbf4c9dfb4a65",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6abd0cdb150c6f32",
+      "fromSide": "left",
+      "id": "26bc088fa75ad6d4",
+      "styleAttributes": {
+      },
+      "toNode": "a14453ef9296f9e4",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "2a69e850c543a439",
+      "fromSide": "left",
+      "id": "7d007c666ef08856",
+      "styleAttributes": {
+      },
+      "toNode": "a14453ef9296f9e4",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "8d4b2635badf1b10",
+      "fromSide": "left",
+      "id": "86edc492a4919c02",
+      "styleAttributes": {
+      },
+      "toNode": "683bfdaa397fc62b",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "7389c720258d3c77",
+      "fromSide": "bottom",
+      "id": "4c6a175b2329c24d",
+      "styleAttributes": {
+      },
+      "toNode": "ccf0527c1ba8791f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "13e920212dfb9cf7",
+      "fromSide": "bottom",
+      "id": "2fd1aadca3638fb6",
+      "styleAttributes": {
+      },
+      "toNode": "8567940b2ba55f37",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bdc6cae9c1a151fd",
+      "fromSide": "bottom",
+      "id": "7aa32e46c8d2f0cb",
+      "styleAttributes": {
+      },
+      "toNode": "947f1a2688271795",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "393cb6e4e28b1241",
+      "fromSide": "bottom",
+      "id": "86e7a0727acbaa3f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "5b8d60158845ad02",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "393cb6e4e28b1241",
+      "fromSide": "bottom",
+      "id": "949d8e3ec21c8642",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "f0d3dbf2fd200fa2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "393cb6e4e28b1241",
+      "fromSide": "bottom",
+      "id": "75eba4f0672d45c8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "86a292971da60b9a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "393cb6e4e28b1241",
+      "fromSide": "bottom",
+      "id": "efc7186cab3049f8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "4f61297f7faf4450",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bdc6cae9c1a151fd",
+      "fromSide": "bottom",
+      "id": "7f6c195279a284e8",
+      "styleAttributes": {
+      },
+      "toNode": "393cb6e4e28b1241",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "bc58f2a463c14503",
+      "fromSide": "bottom",
+      "id": "9b64ccb8aac5a6dd",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "811af6459681bfca",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "bc58f2a463c14503",
+      "fromSide": "bottom",
+      "id": "2a7fc0a5b0b0753e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "6abd0cdb150c6f32",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "bc58f2a463c14503",
+      "fromSide": "bottom",
+      "id": "852969f8cf9c923e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "2a69e850c543a439",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "bc58f2a463c14503",
+      "fromSide": "bottom",
+      "id": "e6dd268f8649848d",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "8d4b2635badf1b10",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "bc58f2a463c14503",
+      "fromSide": "bottom",
+      "id": "8f67744d1f2ab13f",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "21ae3afa17a25844",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "bc58f2a463c14503",
+      "fromSide": "bottom",
+      "id": "088369b08a5c287a",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "99f1c3fc684f5900",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "bc58f2a463c14503",
+      "fromSide": "bottom",
+      "id": "eb0d4fca1a7ba5d5",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "c2d60c718b53a622",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "bdc6cae9c1a151fd",
+      "fromSide": "bottom",
+      "id": "421af16ec88b9b0d",
+      "styleAttributes": {
+      },
+      "toNode": "bc58f2a463c14503",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "8d4b2635badf1b10",
+      "fromSide": "left",
+      "id": "3ecb2d76d3958831",
+      "styleAttributes": {
+      },
+      "toNode": "4cd704fb7e1cd67a",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "8d4b2635badf1b10",
+      "fromSide": "left",
+      "id": "75d0e3063d55d181",
+      "styleAttributes": {
+      },
+      "toNode": "0a4d132564121ef0",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "3f72f3f69357672d",
+      "fromSide": "right",
+      "id": "19ac0e97ee1aef1c",
+      "styleAttributes": {
+      },
+      "toNode": "e896ae1da4efaacd",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e2517466dca0e226",
+      "fromSide": "right",
+      "id": "ece228f24c506318",
+      "styleAttributes": {
+      },
+      "toNode": "e5e91848f2751c78",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5cbd5dd4604a96f6",
+      "fromSide": "bottom",
+      "id": "f385f18bd731c819",
+      "styleAttributes": {
+      },
+      "toNode": "e2517466dca0e226",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5cbd5dd4604a96f6",
+      "fromSide": "bottom",
+      "id": "d0371dd0dd5f5d91",
+      "styleAttributes": {
+      },
+      "toNode": "e3e3796ac40916c6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "5cbd5dd4604a96f6",
+      "fromSide": "bottom",
+      "id": "c8d361016f364cab",
+      "styleAttributes": {
+      },
+      "toNode": "ebb969d76267bb67",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e3e3796ac40916c6",
+      "fromSide": "right",
+      "id": "52c7f99c3d66c0a1",
+      "styleAttributes": {
+      },
+      "toNode": "8adb9402704746d2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ebb969d76267bb67",
+      "fromSide": "right",
+      "id": "016d9e472a4c75e4",
+      "styleAttributes": {
+      },
+      "toNode": "2c7f6545f4efa84c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6d57cbd7d63916d0",
+      "fromSide": "right",
+      "id": "91b4621dfed98acd",
+      "styleAttributes": {
+      },
+      "toNode": "a6591f12afc8a9ee",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3f72f3f69357672d",
+      "fromSide": "bottom",
+      "id": "99ecfbd1f4f1c535",
+      "styleAttributes": {
+      },
+      "toNode": "dd8d4ec426ccbc73",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3f72f3f69357672d",
+      "fromSide": "bottom",
+      "id": "4f4d27c4089ba4bf",
+      "styleAttributes": {
+      },
+      "toNode": "ef09bb3b697386d8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d5ce6080b255416b",
+      "fromSide": "bottom",
+      "id": "932b671a8f6d3228",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "7e8210a16835293b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d5ce6080b255416b",
+      "fromSide": "bottom",
+      "id": "d6b97a038cd2c9e2",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "4f925fc33abb2b59",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d5ce6080b255416b",
+      "fromSide": "bottom",
+      "id": "e0f2e373514a3738",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "9aa4894963b2ce8b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d5ce6080b255416b",
+      "fromSide": "bottom",
+      "id": "7fe902fa3665389d",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "dae9e99904df1b4b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f483fb3b68ca0709",
+      "fromSide": "bottom",
+      "id": "50bf411b4c07e53a",
+      "styleAttributes": {
+      },
+      "toNode": "1def682649d31492",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4a8ccb023a40116a",
+      "fromSide": "right",
+      "id": "3fce540edb03602a",
+      "styleAttributes": {
+      },
+      "toNode": "dfbce4a3d3efedc9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a48a616fbe10d4bb",
+      "fromSide": "right",
+      "id": "73e66da8263821fc",
+      "styleAttributes": {
+      },
+      "toNode": "940fcd6d90c8f457",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a48a616fbe10d4bb",
+      "fromSide": "right",
+      "id": "b75a848788610ad2",
+      "styleAttributes": {
+      },
+      "toNode": "ff6088b13f733fba",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "909a37ce9eec5863",
+      "fromSide": "bottom",
+      "id": "06d21556e05357ba",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "a48a616fbe10d4bb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "18a88040898ec708",
+      "fromSide": "right",
+      "id": "cb5c86f08a2b58ee",
+      "styleAttributes": {
+      },
+      "toNode": "691ec2e0776f8e52",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "18a88040898ec708",
+      "fromSide": "right",
+      "id": "f02b03c9ee53dabb",
+      "styleAttributes": {
+      },
+      "toNode": "14d1144022eb45a4",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "18a88040898ec708",
+      "fromSide": "right",
+      "id": "be95fc8bb9bdb3e9",
+      "styleAttributes": {
+      },
+      "toNode": "01ea63a30b28ad1f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "909a37ce9eec5863",
+      "fromSide": "bottom",
+      "id": "7c3a8dcabaa71180",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "18a88040898ec708",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4a8ccb023a40116a",
+      "fromSide": "right",
+      "id": "e53531d73c386b5a",
+      "styleAttributes": {
+      },
+      "toNode": "40d62d4d5bd7d961",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4a8ccb023a40116a",
+      "fromSide": "right",
+      "id": "09a3e2a456525e00",
+      "styleAttributes": {
+      },
+      "toNode": "8ce9b859e7397ecb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "909a37ce9eec5863",
+      "fromSide": "bottom",
+      "id": "fde549d44be327e8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "4a8ccb023a40116a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "14d1144022eb45a4",
+      "fromSide": "right",
+      "id": "445eabe3a0d39180",
+      "styleAttributes": {
+      },
+      "toNode": "c2ff4e205e8d0c95",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "161689962b64b90f",
+      "fromSide": "right",
+      "id": "81591be73deb9ca8",
+      "styleAttributes": {
+      },
+      "toNode": "cf47b3b82c8657a6",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0b95f6fa13fb51ca",
+      "fromSide": "top",
+      "id": "dff8794e7576930c",
+      "styleAttributes": {
+      },
+      "toNode": "161689962b64b90f",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "43e893337ecd1b76",
+      "fromSide": "right",
+      "id": "d0790cc9cbe92f8a",
+      "styleAttributes": {
+      },
+      "toNode": "e550ed32e2208c33",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "43e893337ecd1b76",
+      "fromSide": "right",
+      "id": "2d2603b193e0b08e",
+      "styleAttributes": {
+      },
+      "toNode": "741624fda9ddb3a8",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "909a37ce9eec5863",
+      "fromSide": "bottom",
+      "id": "23f84923dbaa42af",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "43e893337ecd1b76",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0b95f6fa13fb51ca",
+      "fromSide": "right",
+      "id": "8fc38125c2feca38",
+      "styleAttributes": {
+      },
+      "toNode": "a1a3a6c7b766c563",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0b95f6fa13fb51ca",
+      "fromSide": "bottom",
+      "id": "00b1809c17b340a5",
+      "styleAttributes": {
+      },
+      "toNode": "1f2d0fbdd659bc06",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "0b95f6fa13fb51ca",
+      "fromSide": "bottom",
+      "id": "592b641388e2cb36",
+      "styleAttributes": {
+      },
+      "toNode": "55a97c6876100db5",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "909a37ce9eec5863",
+      "fromSide": "bottom",
+      "id": "ee7aa61d436e9a46",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "0b95f6fa13fb51ca",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a1a3a6c7b766c563",
+      "fromSide": "right",
+      "id": "0cff177342506664",
+      "styleAttributes": {
+      },
+      "toNode": "81b9f4098ef7f18a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a1a3a6c7b766c563",
+      "fromSide": "bottom",
+      "id": "dcc3567d62c9fd1b",
+      "styleAttributes": {
+      },
+      "toNode": "9c09ea7c204ba4c4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "909a37ce9eec5863",
+      "fromSide": "bottom",
+      "id": "0cc8624a8efba465",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "a2bc3878e8d097cc",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a2bc3878e8d097cc",
+      "fromSide": "right",
+      "id": "0f3cd84960811484",
+      "styleAttributes": {
+      },
+      "toNode": "2f0a65b03782da2c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a2bc3878e8d097cc",
+      "fromSide": "right",
+      "id": "4b78b941539dadd8",
+      "styleAttributes": {
+      },
+      "toNode": "da262d3e855d807b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a2bc3878e8d097cc",
+      "fromSide": "right",
+      "id": "c859268d2feb9f2b",
+      "styleAttributes": {
+      },
+      "toNode": "c26ee402245ce165",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a2bc3878e8d097cc",
+      "fromSide": "right",
+      "id": "bb15e51f732422f8",
+      "styleAttributes": {
+      },
+      "toNode": "273692973e0b689e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "a2bc3878e8d097cc",
+      "fromSide": "right",
+      "id": "fa3006a862b74814",
+      "styleAttributes": {
+      },
+      "toNode": "425dd3024fe7f6f9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1d39ac99944dbff9",
+      "fromSide": "bottom",
+      "id": "76dccbe6ede4c03e",
+      "styleAttributes": {
+      },
+      "toNode": "60e626db4784e1e9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "dcddb1bc0a5de9f6",
+      "fromSide": "bottom",
+      "id": "121cc7445a819afe",
+      "styleAttributes": {
+      },
+      "toNode": "1d39ac99944dbff9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "60e626db4784e1e9",
+      "fromSide": "bottom",
+      "id": "9361b0e2ba6d664e",
+      "styleAttributes": {
+      },
+      "toNode": "3efbcdd1308922e7",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3efbcdd1308922e7",
+      "fromSide": "bottom",
+      "id": "bcbe55cdb6c2f1d3",
+      "styleAttributes": {
+      },
+      "toNode": "039d9f74bdd869d2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3efbcdd1308922e7",
+      "fromSide": "bottom",
+      "id": "fd4a85b532fe6aba",
+      "styleAttributes": {
+      },
+      "toNode": "83fa528a9a48ea1c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "3efbcdd1308922e7",
+      "fromSide": "bottom",
+      "id": "ef5201e8acbba09a",
+      "styleAttributes": {
+      },
+      "toNode": "cc6dbf545facc2a7",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "051bf8ee69db564e",
+      "fromSide": "bottom",
+      "id": "d8c5d1022cafcb06",
+      "styleAttributes": {
+      },
+      "toNode": "9d2d0740ac2b6d01",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f5dda349aa2a94fd",
+      "fromSide": "bottom",
+      "id": "1e00a48cc315081c",
+      "styleAttributes": {
+      },
+      "toNode": "051bf8ee69db564e",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f5dda349aa2a94fd",
+      "fromSide": "bottom",
+      "id": "95cdb9cabbeb7a42",
+      "styleAttributes": {
+      },
+      "toNode": "a3fd1047f9d9ab67",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f5dda349aa2a94fd",
+      "fromSide": "bottom",
+      "id": "9f3eb1616c1f9455",
+      "styleAttributes": {
+      },
+      "toNode": "5b32bc6b4c297140",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f483fb3b68ca0709",
+      "fromSide": "bottom",
+      "id": "41d5d1976a9b3513",
+      "styleAttributes": {
+      },
+      "toNode": "7147ecf8a05c1b8c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f483fb3b68ca0709",
+      "fromSide": "bottom",
+      "id": "306cc91bcb239912",
+      "styleAttributes": {
+      },
+      "toNode": "d6ca32efb59efee1",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "039d9f74bdd869d2",
+      "fromSide": "bottom",
+      "id": "64231c6e0523b132",
+      "styleAttributes": {
+      },
+      "toNode": "f483fb3b68ca0709",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "83fa528a9a48ea1c",
+      "fromSide": "bottom",
+      "id": "5797d242e17c33dd",
+      "styleAttributes": {
+      },
+      "toNode": "f483fb3b68ca0709",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "cc6dbf545facc2a7",
+      "fromSide": "bottom",
+      "id": "645e44bf17f17c03",
+      "styleAttributes": {
+      },
+      "toNode": "f483fb3b68ca0709",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "198000dec65f7b0c",
+      "fromSide": "right",
+      "id": "1b0b48d6ed994564",
+      "styleAttributes": {
+      },
+      "toNode": "1fc9d9f8a52dd169",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "198000dec65f7b0c",
+      "fromSide": "bottom",
+      "id": "98ab03dc9f2f53fe",
+      "styleAttributes": {
+      },
+      "toNode": "954027a29af63bfa",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "954027a29af63bfa",
+      "fromSide": "bottom",
+      "id": "d79f252b88df97d1",
+      "styleAttributes": {
+      },
+      "toNode": "dcbb2e7bc8027d19",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "954027a29af63bfa",
+      "fromSide": "bottom",
+      "id": "04603c72a8128115",
+      "styleAttributes": {
+      },
+      "toNode": "310c51af944bb34d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f744094db7266011",
+      "fromSide": "right",
+      "id": "1b7a5803fca13f1e",
+      "styleAttributes": {
+      },
+      "toNode": "954027a29af63bfa",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "03b93954fc00d1d6",
+      "fromSide": "right",
+      "id": "24d0d2452fd2a206",
+      "styleAttributes": {
+      },
+      "toNode": "954027a29af63bfa",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "55a97c6876100db5",
+      "fromSide": "bottom",
+      "id": "6bd61a7eef270bf3",
+      "styleAttributes": {
+      },
+      "toNode": "c7a961e8e35350b9",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "1f2d0fbdd659bc06",
+      "fromSide": "right",
+      "id": "f63a20701627c779",
+      "styleAttributes": {
+      },
+      "toNode": "dc4302f827045bb2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8519f2972646c1ae",
+      "fromSide": "bottom",
+      "id": "6a4ce0d494db00cc",
+      "label": "Это одни и те же насосы*",
+      "styleAttributes": {
+      },
+      "toNode": "1f2d0fbdd659bc06",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "cf47b3b82c8657a6",
+      "fromSide": "right",
+      "id": "a0aa74ddee7d31fc",
+      "styleAttributes": {
+      },
+      "toNode": "11bda594a401dbb0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cf47b3b82c8657a6",
+      "fromSide": "right",
+      "id": "8a2ca6ae2f50d45e",
+      "styleAttributes": {
+      },
+      "toNode": "b672fbbb361135a7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cf47b3b82c8657a6",
+      "fromSide": "right",
+      "id": "4e3fbd7c815cf02f",
+      "styleAttributes": {
+      },
+      "toNode": "4e31cef1a67d3641",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "538ff582001b2849",
+      "fromSide": "bottom",
+      "id": "fd4029274cba6f87",
+      "styleAttributes": {
+      },
+      "toNode": "8519f2972646c1ae",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "538ff582001b2849",
+      "fromSide": "bottom",
+      "id": "d9b3b31c62564c0b",
+      "styleAttributes": {
+      },
+      "toNode": "ffbb50f40ca37e9c",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "81b9f4098ef7f18a",
+      "fromSide": "right",
+      "id": "a74c92642fbc87e9",
+      "styleAttributes": {
+      },
+      "toNode": "7ba404744c06bb9a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "81b9f4098ef7f18a",
+      "fromSide": "right",
+      "id": "e0aa3b2ca5141fcf",
+      "styleAttributes": {
+      },
+      "toNode": "538ff582001b2849",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "81b9f4098ef7f18a",
+      "fromSide": "bottom",
+      "id": "db7929a3db9dba73",
+      "styleAttributes": {
+      },
+      "toNode": "5e69a3d954bb7a77",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "940fcd6d90c8f457",
+      "fromSide": "right",
+      "id": "1a0571d37400f220",
+      "styleAttributes": {
+      },
+      "toNode": "173e1aef52144392",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "940fcd6d90c8f457",
+      "fromSide": "right",
+      "id": "b584dfc94632b3ae",
+      "styleAttributes": {
+      },
+      "toNode": "e5ab28726ce60a5d",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "ff6088b13f733fba",
+      "fromSide": "right",
+      "id": "46454c187072023a",
+      "styleAttributes": {
+      },
+      "toNode": "93d40f2e49ed0982",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d9871903813cd246",
+      "fromSide": "bottom",
+      "id": "1085a7d1ac71c125",
+      "styleAttributes": {
+      },
+      "toNode": "dcddb1bc0a5de9f6",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 420,
+      "id": "796bbf4c9dfb4a65",
+      "label": "Группа без названия",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 620,
+      "x": -1205,
+      "y": 1660
+    },
+    {
+      "height": 60,
+      "id": "dfbce4a3d3efedc9",
+      "styleAttributes": {
+      },
+      "text": "стойки для ковриков",
+      "type": "text",
+      "width": 260,
+      "x": 415,
+      "y": -700
+    },
+    {
+      "height": 60,
+      "id": "40d62d4d5bd7d961",
+      "styleAttributes": {
+      },
+      "text": "пистолет для воды",
+      "type": "text",
+      "width": 260,
+      "x": 415,
+      "y": -820
+    },
+    {
+      "height": 60,
+      "id": "4f925fc33abb2b59",
+      "styleAttributes": {
+      },
+      "text": "Аренда",
+      "type": "text",
+      "width": 260,
+      "x": -705,
+      "y": -500
+    },
+    {
+      "height": 60,
+      "id": "8ce9b859e7397ecb",
+      "styleAttributes": {
+      },
+      "text": "Пистолет для мыла",
+      "type": "text",
+      "width": 260,
+      "x": 415,
+      "y": -760
+    },
+    {
+      "height": 60,
+      "id": "da262d3e855d807b",
+      "styleAttributes": {
+      },
+      "text": "Прием монет",
+      "type": "text",
+      "width": 260,
+      "x": 455,
+      "y": -1250
+    },
+    {
+      "height": 60,
+      "id": "c26ee402245ce165",
+      "styleAttributes": {
+      },
+      "text": "Оплата картой",
+      "type": "text",
+      "width": 260,
+      "x": 455,
+      "y": -1190
+    },
+    {
+      "height": 60,
+      "id": "4a8ccb023a40116a",
+      "styleAttributes": {
+      },
+      "text": "основные органы взаимодействия",
+      "type": "text",
+      "width": 260,
+      "x": 95,
+      "y": -760
+    },
+    {
+      "color": "1",
+      "height": 140,
+      "id": "1def682649d31492",
+      "styleAttributes": {
+      },
+      "text": "На открытие одной автомойки на 6 постов со всем оборудованием и тд ушло 12 млн рублей (в году 2018 примерно)",
+      "type": "text",
+      "width": 260,
+      "x": -705,
+      "y": -800
+    },
+    {
+      "height": 60,
+      "id": "7e8210a16835293b",
+      "styleAttributes": {
+      },
+      "text": "коммунальные услуги",
+      "type": "text",
+      "width": 260,
+      "x": -705,
+      "y": -560
+    },
+    {
+      "height": 60,
+      "id": "d5ce6080b255416b",
+      "styleAttributes": {
+      },
+      "text": "Основные расходы",
+      "type": "text",
+      "width": 260,
+      "x": -905,
+      "y": -640
+    },
+    {
+      "height": 60,
+      "id": "e550ed32e2208c33",
+      "styleAttributes": {
+      },
+      "text": "устойчивость к воде",
+      "type": "text",
+      "width": 260,
+      "x": 435,
+      "y": -1010
+    },
+    {
+      "height": 60,
+      "id": "741624fda9ddb3a8",
+      "styleAttributes": {
+      },
+      "text": "устойчивость к вандалам",
+      "type": "text",
+      "width": 260,
+      "x": 435,
+      "y": -950
+    },
+    {
+      "height": 60,
+      "id": "425dd3024fe7f6f9",
+      "styleAttributes": {
+      },
+      "text": "прием кредитных или других способов оплаты?",
+      "type": "text",
+      "width": 260,
+      "x": 455,
+      "y": -1430
+    },
+    {
+      "height": 60,
+      "id": "273692973e0b689e",
+      "styleAttributes": {
+      },
+      "text": "Оплата телефоном???",
+      "type": "text",
+      "width": 260,
+      "x": 455,
+      "y": -1370
+    },
+    {
+      "height": 60,
+      "id": "2f0a65b03782da2c",
+      "styleAttributes": {
+      },
+      "text": "Прием купюр",
+      "type": "text",
+      "width": 260,
+      "x": 455,
+      "y": -1310
+    },
+    {
+      "height": 180,
+      "id": "43e893337ecd1b76",
+      "styleAttributes": {
+      },
+      "text": "Информационное табло \nфункции \nпрограммы\nстоимость\nакции\nбонусы и тд",
+      "type": "text",
+      "width": 260,
+      "x": 95,
+      "y": -1040
+    },
+    {
+      "height": 180,
+      "id": "7147ecf8a05c1b8c",
+      "styleAttributes": {
+      },
+      "text": "Если строительство не капитальное то нужно получить ордер на земельные работы и ТУ(ТО?) на подключение коммуникаций ",
+      "type": "text",
+      "width": 260,
+      "x": -835,
+      "y": -1100
+    },
+    {
+      "height": 180,
+      "id": "d6ca32efb59efee1",
+      "styleAttributes": {
+      },
+      "text": "Если земля в аренде то нет смысла ставить капитальное строение так как оно становится на учет и в случае чего мы дарим объект ",
+      "type": "text",
+      "width": 260,
+      "x": -575,
+      "y": -1100
+    },
+    {
+      "height": 120,
+      "id": "f483fb3b68ca0709",
+      "styleAttributes": {
+      },
+      "text": "Капитальное строительство или нет ",
+      "type": "text",
+      "width": 260,
+      "x": -705,
+      "y": -1310
+    },
+    {
+      "height": 60,
+      "id": "a2bc3878e8d097cc",
+      "styleAttributes": {
+      },
+      "text": "Терминал для оплаты ",
+      "type": "text",
+      "width": 260,
+      "x": 95,
+      "y": -1310
+    },
+    {
+      "height": 310,
+      "id": "d5732b6ea9e098e1",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312220823.png]]",
+      "type": "text",
+      "width": 400,
+      "x": 1435,
+      "y": -1710
+    },
+    {
+      "file": "кеш/Pasted image 20250312220841.png",
+      "height": 346,
+      "id": "5db90f001b45b6bf",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1435,
+      "y": -1393
+    },
+    {
+      "height": 140,
+      "id": "039d9f74bdd869d2",
+      "styleAttributes": {
+      },
+      "text": "Участок должен соотвтетсвовать виду разрешенного использования (придорожный сервис)",
+      "type": "text",
+      "width": 260,
+      "x": -965,
+      "y": -1590
+    },
+    {
+      "height": 140,
+      "id": "83fa528a9a48ea1c",
+      "styleAttributes": {
+      },
+      "text": "Санитарная зона\nв пределах 100метров (нефакт, инфа по рф) недолжно быть жилых помещений (домов)",
+      "type": "text",
+      "width": 260,
+      "x": -705,
+      "y": -1590
+    },
+    {
+      "height": 140,
+      "id": "cc6dbf545facc2a7",
+      "styleAttributes": {
+      },
+      "text": "Нельзя ставить автомойку на шоссе с трафиком ХХХХ",
+      "type": "text",
+      "width": 260,
+      "x": -445,
+      "y": -1590
+    },
+    {
+      "height": 60,
+      "id": "909a37ce9eec5863",
+      "styleAttributes": {
+      },
+      "text": "Обустройство одного поста ",
+      "type": "text",
+      "width": 260,
+      "x": -125,
+      "y": -1480
+    },
+    {
+      "height": 60,
+      "id": "dcddb1bc0a5de9f6",
+      "styleAttributes": {
+      },
+      "text": "Первый этап \nВыбор места ",
+      "type": "text",
+      "width": 260,
+      "x": -705,
+      "y": -2310
+    },
+    {
+      "height": 200,
+      "id": "3efbcdd1308922e7",
+      "styleAttributes": {
+      },
+      "text": "Оборудование производится на протяжении 2-3х месяцев. Закупается заранее чтобы к моменту стройки оборудование было готово",
+      "type": "text",
+      "width": 260,
+      "x": -705,
+      "y": -1930
+    },
+    {
+      "height": 80,
+      "id": "1d39ac99944dbff9",
+      "styleAttributes": {
+      },
+      "text": "есть ли возможность подключить коммуникации",
+      "type": "text",
+      "width": 260,
+      "x": -705,
+      "y": -2190
+    },
+    {
+      "height": 60,
+      "id": "60e626db4784e1e9",
+      "styleAttributes": {
+      },
+      "text": "Рисуем проект на строительство",
+      "type": "text",
+      "width": 260,
+      "x": -705,
+      "y": -2050
+    },
+    {
+      "height": 60,
+      "id": "5b8d60158845ad02",
+      "styleAttributes": {
+      },
+      "text": "на яндекс картах",
+      "type": "text",
+      "width": 260,
+      "x": -605,
+      "y": 1360
+    },
+    {
+      "height": 60,
+      "id": "f0d3dbf2fd200fa2",
+      "styleAttributes": {
+      },
+      "text": "сарафанное",
+      "type": "text",
+      "width": 260,
+      "x": -605,
+      "y": 1420
+    },
+    {
+      "height": 60,
+      "id": "8567940b2ba55f37",
+      "styleAttributes": {
+      },
+      "text": "Банковские карты ОБЯЗАТЕЛЬНО",
+      "type": "text",
+      "width": 260,
+      "x": -1185,
+      "y": 1770
+    },
+    {
+      "height": 60,
+      "id": "ccf0527c1ba8791f",
+      "styleAttributes": {
+      },
+      "text": "сильно влияет сезонность за счет теплой воды",
+      "type": "text",
+      "width": 260,
+      "x": -875,
+      "y": 1820
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "e896ae1da4efaacd",
+      "styleAttributes": {
+      },
+      "text": "стоимость химии до 10% от стоимости мойки",
+      "type": "text",
+      "width": 260,
+      "x": -1185,
+      "y": 1900
+    },
+    {
+      "height": 80,
+      "id": "0fde601c90ef9c1f",
+      "styleAttributes": {
+      },
+      "text": "Зима главный сезон, летом падает вырочка до 40%",
+      "type": "text",
+      "width": 260,
+      "x": -895,
+      "y": 1960
+    },
+    {
+      "height": 60,
+      "id": "13e920212dfb9cf7",
+      "styleAttributes": {
+      },
+      "text": "Удобство оплаты",
+      "type": "text",
+      "width": 260,
+      "x": -1185,
+      "y": 1680
+    },
+    {
+      "height": 60,
+      "id": "7389c720258d3c77",
+      "styleAttributes": {
+      },
+      "text": "средний чек (в 21 году) от 120 до 150 рублей",
+      "type": "text",
+      "width": 260,
+      "x": -875,
+      "y": 1680
+    },
+    {
+      "height": 60,
+      "id": "d9871903813cd246",
+      "styleAttributes": {
+      },
+      "text": " [видео](https://www.youtube.com/watch?v=dgZi_AUdxvY&t=753s) ",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": -2420
+    },
+    {
+      "height": 60,
+      "id": "99f1c3fc684f5900",
+      "styleAttributes": {
+      },
+      "text": "качество химии ",
+      "type": "text",
+      "width": 260,
+      "x": -1625,
+      "y": 1760
+    },
+    {
+      "height": 60,
+      "id": "c2d60c718b53a622",
+      "styleAttributes": {
+      },
+      "text": "Давление в пистолете",
+      "type": "text",
+      "width": 260,
+      "x": -1625,
+      "y": 1840
+    },
+    {
+      "height": 60,
+      "id": "2a69e850c543a439",
+      "styleAttributes": {
+      },
+      "text": "Удобство очереди",
+      "type": "text",
+      "width": 260,
+      "x": -1625,
+      "y": 1480
+    },
+    {
+      "height": 60,
+      "id": "811af6459681bfca",
+      "styleAttributes": {
+      },
+      "text": "Удобство уборки",
+      "type": "text",
+      "width": 260,
+      "x": -1625,
+      "y": 1320
+    },
+    {
+      "height": 60,
+      "id": "6abd0cdb150c6f32",
+      "styleAttributes": {
+      },
+      "text": "Удобство подъезда",
+      "type": "text",
+      "width": 260,
+      "x": -1625,
+      "y": 1400
+    },
+    {
+      "height": 60,
+      "id": "3f72f3f69357672d",
+      "styleAttributes": {
+      },
+      "text": "Химия",
+      "type": "text",
+      "width": 260,
+      "x": -1575,
+      "y": 2080
+    },
+    {
+      "height": 60,
+      "id": "dd8d4ec426ccbc73",
+      "styleAttributes": {
+      },
+      "text": "Оборудование должно подходить под воду ",
+      "type": "text",
+      "width": 260,
+      "x": -1315,
+      "y": 2160
+    },
+    {
+      "height": 60,
+      "id": "ef09bb3b697386d8",
+      "styleAttributes": {
+      },
+      "text": "Количество поставщиков огромное",
+      "type": "text",
+      "width": 260,
+      "x": -1315,
+      "y": 2250
+    },
+    {
+      "height": 60,
+      "id": "4f61297f7faf4450",
+      "styleAttributes": {
+      },
+      "text": "наружная реклама",
+      "type": "text",
+      "width": 260,
+      "x": -605,
+      "y": 1540
+    },
+    {
+      "height": 60,
+      "id": "86a292971da60b9a",
+      "styleAttributes": {
+      },
+      "text": "банеры до открытия",
+      "type": "text",
+      "width": 260,
+      "x": -605,
+      "y": 1480
+    },
+    {
+      "height": 60,
+      "id": "21ae3afa17a25844",
+      "styleAttributes": {
+      },
+      "text": "Удобство протирки",
+      "type": "text",
+      "width": 260,
+      "x": -1625,
+      "y": 1560
+    },
+    {
+      "height": 60,
+      "id": "bc58f2a463c14503",
+      "styleAttributes": {
+      },
+      "text": "Факторы выбора ",
+      "type": "text",
+      "width": 260,
+      "x": -1405,
+      "y": 1240
+    },
+    {
+      "height": 60,
+      "id": "8d4b2635badf1b10",
+      "styleAttributes": {
+      },
+      "text": "Доп услуги",
+      "type": "text",
+      "width": 260,
+      "x": -1625,
+      "y": 1660
+    },
+    {
+      "height": 60,
+      "id": "bdc6cae9c1a151fd",
+      "styleAttributes": {
+      },
+      "text": "Клиенты ",
+      "type": "text",
+      "width": 260,
+      "x": -1125,
+      "y": 1120
+    },
+    {
+      "height": 60,
+      "id": "e3e3796ac40916c6",
+      "styleAttributes": {
+      },
+      "text": "РФ",
+      "type": "text",
+      "width": 260,
+      "x": -785,
+      "y": 740
+    },
+    {
+      "height": 60,
+      "id": "ebb969d76267bb67",
+      "styleAttributes": {
+      },
+      "text": "Китай",
+      "type": "text",
+      "width": 260,
+      "x": -785,
+      "y": 920
+    },
+    {
+      "height": 60,
+      "id": "a14453ef9296f9e4",
+      "styleAttributes": {
+      },
+      "text": "Важно учитьывать на этапе планирования стройки",
+      "type": "text",
+      "width": 260,
+      "x": -2005,
+      "y": 1340
+    },
+    {
+      "height": 60,
+      "id": "683bfdaa397fc62b",
+      "styleAttributes": {
+      },
+      "text": "Пылесос",
+      "type": "text",
+      "width": 260,
+      "x": -2005,
+      "y": 1500
+    },
+    {
+      "height": 60,
+      "id": "4cd704fb7e1cd67a",
+      "styleAttributes": {
+      },
+      "text": "подкачка колес",
+      "type": "text",
+      "width": 260,
+      "x": -2005,
+      "y": 1580
+    },
+    {
+      "height": 60,
+      "id": "0a4d132564121ef0",
+      "styleAttributes": {
+      },
+      "text": "кофе",
+      "type": "text",
+      "width": 260,
+      "x": -2005,
+      "y": 1660
+    },
+    {
+      "height": 160,
+      "id": "8adb9402704746d2",
+      "styleAttributes": {
+      },
+      "text": "Сбор из тех же комплектующих что и европа\nвысокое давление\nмного функций\n",
+      "type": "text",
+      "width": 260,
+      "x": -445,
+      "y": 690
+    },
+    {
+      "height": 80,
+      "id": "2c7f6545f4efa84c",
+      "styleAttributes": {
+      },
+      "text": "Слабо представлены на рынке моек самообслуживания",
+      "type": "text",
+      "width": 260,
+      "x": -445,
+      "y": 920
+    },
+    {
+      "height": 100,
+      "id": "e5e91848f2751c78",
+      "styleAttributes": {
+      },
+      "text": "Слабое давление\nнет пены\nмало функций",
+      "type": "text",
+      "width": 260,
+      "x": -445,
+      "y": 1060
+    },
+    {
+      "height": 60,
+      "id": "051bf8ee69db564e",
+      "styleAttributes": {
+      },
+      "text": "Вахтовый метод",
+      "type": "text",
+      "width": 260,
+      "x": -385,
+      "y": 1740
+    },
+    {
+      "height": 60,
+      "id": "9d2d0740ac2b6d01",
+      "styleAttributes": {
+      },
+      "text": "15/15",
+      "type": "text",
+      "width": 260,
+      "x": -405,
+      "y": 1860
+    },
+    {
+      "height": 60,
+      "id": "f5dda349aa2a94fd",
+      "styleAttributes": {
+      },
+      "text": "Сутрудники",
+      "type": "text",
+      "width": 260,
+      "x": -255,
+      "y": 1620
+    },
+    {
+      "height": 60,
+      "id": "a3fd1047f9d9ab67",
+      "styleAttributes": {
+      },
+      "text": "Посуточный метод",
+      "type": "text",
+      "width": 260,
+      "x": -125,
+      "y": 1740
+    },
+    {
+      "height": 60,
+      "id": "e2517466dca0e226",
+      "styleAttributes": {
+      },
+      "text": "Европа",
+      "type": "text",
+      "width": 260,
+      "x": -785,
+      "y": 1050
+    },
+    {
+      "height": 60,
+      "id": "947f1a2688271795",
+      "styleAttributes": {
+      },
+      "text": "Приложение мойки с системой лояльности",
+      "type": "text",
+      "width": 260,
+      "x": -995,
+      "y": 1420
+    },
+    {
+      "height": 60,
+      "id": "393cb6e4e28b1241",
+      "styleAttributes": {
+      },
+      "text": "Привлечение",
+      "type": "text",
+      "width": 260,
+      "x": -825,
+      "y": 1300
+    },
+    {
+      "height": 200,
+      "id": "5b32bc6b4c297140",
+      "styleAttributes": {
+      },
+      "text": "Обязательное условия так как нет защиты от вандализма\nмусор\nпроцессы и этапы мойки\n",
+      "type": "text",
+      "width": 260,
+      "x": -255,
+      "y": 1980
+    },
+    {
+      "height": 160,
+      "id": "8519f2972646c1ae",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312222326.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 1165,
+      "y": 700
+    },
+    {
+      "height": 200,
+      "id": "198000dec65f7b0c",
+      "styleAttributes": {
+      },
+      "text": "Была упомянута емкость дизеля и сказано что она не работает а просто стоит.\nНе ясно что за она и для чего она нужна но скорее всего либо электричество либо обогрев или вместе ",
+      "type": "text",
+      "width": 380,
+      "x": 1275,
+      "y": 1040
+    },
+    {
+      "height": 60,
+      "id": "7ba404744c06bb9a",
+      "styleAttributes": {
+      },
+      "text": "из основного бака поступает в бак для мыльного расствора",
+      "type": "text",
+      "width": 260,
+      "x": 1465,
+      "y": 460
+    },
+    {
+      "height": 80,
+      "id": "954027a29af63bfa",
+      "styleAttributes": {
+      },
+      "text": "котел греет бойлер (на 1000 литров) ",
+      "type": "text",
+      "width": 260,
+      "x": 1335,
+      "y": 1340
+    },
+    {
+      "height": 100,
+      "id": "dcbb2e7bc8027d19",
+      "styleAttributes": {
+      },
+      "text": "Клиент включает функцию теплая вода и может мыть теплой водой",
+      "type": "text",
+      "width": 260,
+      "x": 1365,
+      "y": 1540
+    },
+    {
+      "height": 180,
+      "id": "1fc9d9f8a52dd169",
+      "styleAttributes": {
+      },
+      "text": "пояснили. Дизельный котел нужен для подогрева воды так как поступает только холодная ",
+      "type": "text",
+      "width": 260,
+      "x": 1745,
+      "y": 1060
+    },
+    {
+      "height": 100,
+      "id": "310c51af944bb34d",
+      "styleAttributes": {
+      },
+      "text": "Так же явно используется для зимнего режима",
+      "type": "text",
+      "width": 260,
+      "x": 1625,
+      "y": 1540
+    },
+    {
+      "height": 100,
+      "id": "538ff582001b2849",
+      "styleAttributes": {
+      },
+      "text": "С емкости насос высокого давления подает на все шланги",
+      "type": "text",
+      "width": 260,
+      "x": 1165,
+      "y": 520
+    },
+    {
+      "height": 160,
+      "id": "ffbb50f40ca37e9c",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312222913.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 1465,
+      "y": 700
+    },
+    {
+      "height": 60,
+      "id": "0b95f6fa13fb51ca",
+      "styleAttributes": {
+      },
+      "text": "Техническое помещение",
+      "type": "text",
+      "width": 260,
+      "x": 85,
+      "y": 460
+    },
+    {
+      "height": 60,
+      "id": "a1a3a6c7b766c563",
+      "styleAttributes": {
+      },
+      "text": "вода заходит сначала в фильтр",
+      "type": "text",
+      "width": 260,
+      "x": 425,
+      "y": 460
+    },
+    {
+      "height": 160,
+      "id": "9c09ea7c204ba4c4",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312222128.png]]",
+      "type": "text",
+      "width": 280,
+      "x": 415,
+      "y": 580
+    },
+    {
+      "height": 120,
+      "id": "1f2d0fbdd659bc06",
+      "styleAttributes": {
+      },
+      "text": "Об этих насосах особо не говорится но явно каждый из них подает воду на свой шланг ",
+      "type": "text",
+      "width": 260,
+      "x": 445,
+      "y": 980
+    },
+    {
+      "height": 120,
+      "id": "c7a961e8e35350b9",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312222741.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 445,
+      "y": 1330
+    },
+    {
+      "height": 60,
+      "id": "55a97c6876100db5",
+      "styleAttributes": {
+      },
+      "text": "пульт управление",
+      "type": "text",
+      "width": 260,
+      "x": 445,
+      "y": 1170
+    },
+    {
+      "height": 160,
+      "id": "cf47b3b82c8657a6",
+      "styleAttributes": {
+      },
+      "text": "для подключения самого дешевого оборудования в 250000-300000 руб это две кнопки функций и даже в это не входит ",
+      "type": "text",
+      "width": 260,
+      "x": 815,
+      "y": 240
+    },
+    {
+      "height": 150,
+      "id": "dc4302f827045bb2",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312222549.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 785,
+      "y": 1010
+    },
+    {
+      "height": 220,
+      "id": "f744094db7266011",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312223051.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 945,
+      "y": 1320
+    },
+    {
+      "height": 200,
+      "id": "03b93954fc00d1d6",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312223139.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 945,
+      "y": 1540
+    },
+    {
+      "height": 60,
+      "id": "161689962b64b90f",
+      "styleAttributes": {
+      },
+      "text": "Еще из полезного",
+      "type": "text",
+      "width": 260,
+      "x": 425,
+      "y": 300
+    },
+    {
+      "height": 60,
+      "id": "18a88040898ec708",
+      "styleAttributes": {
+      },
+      "text": "Зима",
+      "type": "text",
+      "width": 260,
+      "x": 95,
+      "y": -220
+    },
+    {
+      "height": 100,
+      "id": "691ec2e0776f8e52",
+      "styleAttributes": {
+      },
+      "text": "Контур поста подогревается бетонная плита на обоггреве",
+      "type": "text",
+      "width": 300,
+      "x": 415,
+      "y": -240
+    },
+    {
+      "height": 140,
+      "id": "14d1144022eb45a4",
+      "styleAttributes": {
+      },
+      "text": "При снижении температуры воды пистолеты переходят в режим автоматического протока вды и в них всегда течет вода что не дает застыть",
+      "type": "text",
+      "width": 340,
+      "x": 415,
+      "y": -100
+    },
+    {
+      "height": 100,
+      "id": "01ea63a30b28ad1f",
+      "styleAttributes": {
+      },
+      "text": "На потолке так же идет теплый контур для подогрева шлангов с водой ",
+      "type": "text",
+      "width": 300,
+      "x": 415,
+      "y": 80
+    },
+    {
+      "height": 60,
+      "id": "11bda594a401dbb0",
+      "styleAttributes": {
+      },
+      "text": "умегчение воды",
+      "type": "text",
+      "width": 260,
+      "x": 1165,
+      "y": 230
+    },
+    {
+      "height": 60,
+      "id": "b672fbbb361135a7",
+      "styleAttributes": {
+      },
+      "text": "осматическая установка",
+      "type": "text",
+      "width": 260,
+      "x": 1165,
+      "y": 290
+    },
+    {
+      "height": 60,
+      "id": "4e31cef1a67d3641",
+      "styleAttributes": {
+      },
+      "text": "Котельная система (бойлер котел и тд)",
+      "type": "text",
+      "width": 260,
+      "x": 1165,
+      "y": 350
+    },
+    {
+      "height": 60,
+      "id": "81b9f4098ef7f18a",
+      "styleAttributes": {
+      },
+      "text": "поступает в емкость",
+      "type": "text",
+      "width": 260,
+      "x": 825,
+      "y": 460
+    },
+    {
+      "height": 160,
+      "id": "5e69a3d954bb7a77",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312222218.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 825,
+      "y": 580
+    },
+    {
+      "height": 80,
+      "id": "940fcd6d90c8f457",
+      "styleAttributes": {
+      },
+      "text": "Под мойкой вкопаны кольца и туда стекает вода ",
+      "type": "text",
+      "width": 260,
+      "x": 475,
+      "y": -560
+    },
+    {
+      "color": "1",
+      "height": 110,
+      "id": "e5ab28726ce60a5d",
+      "styleAttributes": {
+      },
+      "text": "мойка на 6 постовпотребляет от 700 кубов в месяц",
+      "type": "text",
+      "width": 260,
+      "x": 835,
+      "y": -780
+    },
+    {
+      "height": 60,
+      "id": "9aa4894963b2ce8b",
+      "styleAttributes": {
+      },
+      "text": "ЗП",
+      "type": "text",
+      "width": 260,
+      "x": -705,
+      "y": -440
+    },
+    {
+      "height": 60,
+      "id": "dae9e99904df1b4b",
+      "styleAttributes": {
+      },
+      "text": "Химия",
+      "type": "text",
+      "width": 260,
+      "x": -705,
+      "y": -380
+    },
+    {
+      "height": 200,
+      "id": "176998b48d3f06fb",
+      "styleAttributes": {
+      },
+      "text": "Окупаемость от  полутора до 3х лет но сильно большая разница. Маржинальность за вычетом всех расходов доходит 50-60%",
+      "type": "text",
+      "width": 280,
+      "x": -545,
+      "y": -280
+    },
+    {
+      "color": "3",
+      "height": 200,
+      "id": "a6591f12afc8a9ee",
+      "styleAttributes": {
+      },
+      "text": "80% успеха это выбор места и возможность подключения ком услуг.\nтак же важно иметь возможность заключать как можно более долгосрочный договор аренды и выбор оборудования ",
+      "type": "text",
+      "width": 380,
+      "x": -785,
+      "y": 0
+    },
+    {
+      "color": "1",
+      "height": 220,
+      "id": "8ebd45eabb23a328",
+      "styleAttributes": {
+      },
+      "text": "Открывать на два поста вообще не имеет смысла так как основыные расходы по подведению ком. строительство и тд одни и те же, и добавить еще два поста становится крайне разумным для оптимизации расходов \nТех комната будет по сути одна и та же что для 2х постов что для 4х и даже для 6",
+      "type": "text",
+      "width": 380,
+      "x": -1085,
+      "y": -280
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "6d57cbd7d63916d0",
+      "styleAttributes": {
+      },
+      "text": "итог от автора",
+      "type": "text",
+      "width": 260,
+      "x": -1105,
+      "y": 70
+    },
+    {
+      "height": 60,
+      "id": "5cbd5dd4604a96f6",
+      "styleAttributes": {
+      },
+      "text": "Оборудование",
+      "type": "text",
+      "width": 260,
+      "x": -985,
+      "y": 650
+    },
+    {
+      "height": 60,
+      "id": "a48a616fbe10d4bb",
+      "styleAttributes": {
+      },
+      "text": "канализация",
+      "type": "text",
+      "width": 260,
+      "x": 95,
+      "y": -480
+    },
+    {
+      "height": 60,
+      "id": "ff6088b13f733fba",
+      "styleAttributes": {
+      },
+      "text": "песок с водой стекает в канализацию ",
+      "type": "text",
+      "width": 260,
+      "x": 475,
+      "y": -420
+    },
+    {
+      "height": 60,
+      "id": "173e1aef52144392",
+      "styleAttributes": {
+      },
+      "text": "вода уходит в общий отстойник за мойкой",
+      "type": "text",
+      "width": 260,
+      "x": 835,
+      "y": -560
+    },
+    {
+      "height": 60,
+      "id": "93d40f2e49ed0982",
+      "styleAttributes": {
+      },
+      "text": "куда девается песок не раскрыто",
+      "type": "text",
+      "width": 260,
+      "x": 835,
+      "y": -420
+    },
+    {
+      "height": 60,
+      "id": "c2ff4e205e8d0c95",
+      "styleAttributes": {
+      },
+      "text": "температура минимум +3",
+      "type": "text",
+      "width": 260,
+      "x": 835,
+      "y": -100
+    }
+  ]
+}
