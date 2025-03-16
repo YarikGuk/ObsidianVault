@@ -1392,6 +1392,33 @@
       },
       "toNode": "e51a376ff5f79d09",
       "toSide": "bottom"
+    },
+    {
+      "fromNode": "711ed0ec2047a77f",
+      "fromSide": "right",
+      "id": "629db4fc5e1f845e",
+      "styleAttributes": {
+      },
+      "toNode": "2f5798ac924b10e3",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2f5798ac924b10e3",
+      "fromSide": "right",
+      "id": "9b3ed0affae860c1",
+      "styleAttributes": {
+      },
+      "toNode": "56530ff304df8df0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "2f5798ac924b10e3",
+      "fromSide": "right",
+      "id": "8bcda86ccf292191",
+      "styleAttributes": {
+      },
+      "toNode": "7b4311fc5ce37198",
+      "toSide": "left"
     }
   ],
   "nodes": [
@@ -1405,6 +1432,1321 @@
       "width": 620,
       "x": 1520,
       "y": 2800
+    },
+    {
+      "height": 60,
+      "id": "7a8d73e9307c4d19",
+      "styleAttributes": {
+      },
+      "text": "Задача",
+      "type": "text",
+      "width": 260,
+      "x": -380,
+      "y": -60
+    },
+    {
+      "height": 60,
+      "id": "28b32adfe141640d",
+      "styleAttributes": {
+        "border": null
+      },
+      "text": "Термины и понятия",
+      "type": "text",
+      "width": 260,
+      "x": -380,
+      "y": 100
+    },
+    {
+      "height": 60,
+      "id": "0db464717513bed6",
+      "styleAttributes": {
+      },
+      "text": "Гос регулирование",
+      "type": "text",
+      "width": 260,
+      "x": -940,
+      "y": 680
+    },
+    {
+      "height": 60,
+      "id": "5cb52eae23125a71",
+      "styleAttributes": {
+      },
+      "text": "Аренда",
+      "type": "text",
+      "width": 260,
+      "x": -940,
+      "y": 740
+    },
+    {
+      "height": 60,
+      "id": "db7f302707d95c68",
+      "styleAttributes": {
+      },
+      "text": "Оценить степень конкурентности",
+      "type": "text",
+      "width": 260,
+      "x": -940,
+      "y": 620
+    },
+    {
+      "height": 60,
+      "id": "f52474f7dfd2e52a",
+      "styleAttributes": {
+      },
+      "text": "факты по экологии автомоек",
+      "type": "text",
+      "width": 260,
+      "x": -940,
+      "y": 560
+    },
+    {
+      "height": 140,
+      "id": "ebd70bc09dd367fe",
+      "styleAttributes": {
+      },
+      "text": "Факточекинг \nОчень важно проверять факты и подпирать их ссылками и подтверждениями\nВажно ставить ВСЕ под сомнение",
+      "type": "text",
+      "width": 330,
+      "x": -680,
+      "y": 210
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "27c25758bcb745b0",
+      "styleAttributes": {
+      },
+      "text": "Задачи ",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": -330
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "38508ea2dd0a8b3d",
+      "styleAttributes": {
+      },
+      "text": "Важное",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": -270
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "34aebeaf51d40d1a",
+      "styleAttributes": {
+      },
+      "text": "Комментарии",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": -210
+    },
+    {
+      "height": 60,
+      "id": "65c07ce58f78a469",
+      "styleAttributes": {
+      },
+      "text": "На сколько сложно найти информацию",
+      "type": "text",
+      "width": 260,
+      "x": -1320,
+      "y": 680
+    },
+    {
+      "height": 60,
+      "id": "ae4147abb5094290",
+      "styleAttributes": {
+      },
+      "text": "Порог входа",
+      "type": "text",
+      "width": 260,
+      "x": -1320,
+      "y": 740
+    },
+    {
+      "height": 60,
+      "id": "6a12bb4bf6b4f03d",
+      "styleAttributes": {
+      },
+      "text": "Сколько в среднем живет автомойка",
+      "type": "text",
+      "width": 260,
+      "x": -1320,
+      "y": 800
+    },
+    {
+      "height": 60,
+      "id": "711ed0ec2047a77f",
+      "styleAttributes": {
+      },
+      "text": "Сбор фактов",
+      "type": "text",
+      "width": 260,
+      "x": -380,
+      "y": 620
+    },
+    {
+      "height": 120,
+      "id": "e3eaaa33db1f35bc",
+      "styleAttributes": {
+      },
+      "text": "Построение гипотез\nгипотезой может быть что угодно. Она требует обоснования  и проверки",
+      "type": "text",
+      "width": 260,
+      "x": -840,
+      "y": 1200
+    },
+    {
+      "height": 60,
+      "id": "701d5bcd2ff8c9e4",
+      "styleAttributes": {
+      },
+      "text": "Оптимизация",
+      "type": "text",
+      "width": 260,
+      "x": -940,
+      "y": 920
+    },
+    {
+      "height": 60,
+      "id": "c5e1fb0b692e6c2e",
+      "styleAttributes": {
+      },
+      "text": "Время работы",
+      "type": "text",
+      "width": 260,
+      "x": -940,
+      "y": 800
+    },
+    {
+      "height": 60,
+      "id": "a2262708ed6cc19f",
+      "styleAttributes": {
+      },
+      "text": "Выводы это доказанные гипотезы",
+      "type": "text",
+      "width": 260,
+      "x": -800,
+      "y": 1440
+    },
+    {
+      "height": 60,
+      "id": "5b9d17ad1a6ca56b",
+      "styleAttributes": {
+      },
+      "text": "Безопасность",
+      "type": "text",
+      "width": 260,
+      "x": -940,
+      "y": 860
+    },
+    {
+      "height": 60,
+      "id": "cfa139d3797566c7",
+      "styleAttributes": {
+      },
+      "text": "Гипотезы",
+      "type": "text",
+      "width": 260,
+      "x": -380,
+      "y": 1230
+    },
+    {
+      "height": 60,
+      "id": "91f5450759c09092",
+      "styleAttributes": {
+      },
+      "text": "Экономика автомоек",
+      "type": "text",
+      "width": 260,
+      "x": -940,
+      "y": 380
+    },
+    {
+      "height": 60,
+      "id": "c68bf913cd954035",
+      "styleAttributes": {
+      },
+      "text": "Примеры других автомоек ",
+      "type": "text",
+      "width": 260,
+      "x": -940,
+      "y": 500
+    },
+    {
+      "height": 60,
+      "id": "c795ce2ddfb5a460",
+      "styleAttributes": {
+      },
+      "text": "Исследование на тему прибыльности автомоек",
+      "type": "text",
+      "width": 260,
+      "x": -940,
+      "y": 440
+    },
+    {
+      "height": 60,
+      "id": "5e8f3645c01d06dc",
+      "styleAttributes": {
+      },
+      "text": "Фильтрация",
+      "type": "text",
+      "width": 260,
+      "x": -1320,
+      "y": 440
+    },
+    {
+      "height": 60,
+      "id": "32a13e45829871d1",
+      "styleAttributes": {
+      },
+      "text": "Документация",
+      "type": "text",
+      "width": 260,
+      "x": -1320,
+      "y": 500
+    },
+    {
+      "height": 60,
+      "id": "15509ec61ebcc06a",
+      "styleAttributes": {
+      },
+      "text": "Вода",
+      "type": "text",
+      "width": 260,
+      "x": -1400,
+      "y": 960
+    },
+    {
+      "height": 60,
+      "id": "a7e0590934d186d5",
+      "styleAttributes": {
+      },
+      "text": "Сертификация",
+      "type": "text",
+      "width": 260,
+      "x": -1320,
+      "y": 560
+    },
+    {
+      "height": 60,
+      "id": "8e1c61a8f8bd8da8",
+      "styleAttributes": {
+      },
+      "text": "Электричесвто",
+      "type": "text",
+      "width": 260,
+      "x": -1400,
+      "y": 1020
+    },
+    {
+      "height": 60,
+      "id": "ffe68e6b3dc7e112",
+      "styleAttributes": {
+      },
+      "text": "Люди",
+      "type": "text",
+      "width": 260,
+      "x": -1400,
+      "y": 1080
+    },
+    {
+      "height": 60,
+      "id": "56890ae00b0c4800",
+      "styleAttributes": {
+      },
+      "text": "Расходники",
+      "type": "text",
+      "width": 260,
+      "x": -1400,
+      "y": 1140
+    },
+    {
+      "height": 80,
+      "id": "ae42fc823f25dbc7",
+      "styleAttributes": {
+      },
+      "text": "котел греет бойлер (на 1000 литров) ",
+      "type": "text",
+      "width": 260,
+      "x": 4060,
+      "y": 2480
+    },
+    {
+      "height": 100,
+      "id": "cbed8bff65f46b50",
+      "styleAttributes": {
+      },
+      "text": "Клиент включает функцию теплая вода и может мыть теплой водой",
+      "type": "text",
+      "width": 260,
+      "x": 4090,
+      "y": 2680
+    },
+    {
+      "height": 100,
+      "id": "5b57f652c97f4bbb",
+      "styleAttributes": {
+      },
+      "text": "Так же явно используется для зимнего режима",
+      "type": "text",
+      "width": 260,
+      "x": 4350,
+      "y": 2680
+    },
+    {
+      "height": 60,
+      "id": "8432931e6cdda3c3",
+      "styleAttributes": {
+      },
+      "text": "15/15",
+      "type": "text",
+      "width": 260,
+      "x": 2320,
+      "y": 3000
+    },
+    {
+      "height": 60,
+      "id": "15ebd549b2dc8481",
+      "styleAttributes": {
+      },
+      "text": "Вахтовый метод",
+      "type": "text",
+      "width": 260,
+      "x": 2340,
+      "y": 2880
+    },
+    {
+      "height": 60,
+      "id": "a2005e42300e8808",
+      "styleAttributes": {
+      },
+      "text": "Сутрудники",
+      "type": "text",
+      "width": 260,
+      "x": 2470,
+      "y": 2760
+    },
+    {
+      "height": 60,
+      "id": "f9a6c3863b5e5f3d",
+      "styleAttributes": {
+      },
+      "text": "Посуточный метод",
+      "type": "text",
+      "width": 260,
+      "x": 2600,
+      "y": 2880
+    },
+    {
+      "height": 200,
+      "id": "f8c6dad18a66810d",
+      "styleAttributes": {
+      },
+      "text": "Обязательное условия так как нет защиты от вандализма\nмусор\nпроцессы и этапы мойки\n",
+      "type": "text",
+      "width": 260,
+      "x": 2470,
+      "y": 3120
+    },
+    {
+      "height": 200,
+      "id": "9f02070f4d9adf59",
+      "styleAttributes": {
+      },
+      "text": "Была упомянута емкость дизеля и сказано что она не работает а просто стоит.\nНе ясно что за она и для чего она нужна но скорее всего либо электричество либо обогрев или вместе ",
+      "type": "text",
+      "width": 380,
+      "x": 4000,
+      "y": 2180
+    },
+    {
+      "height": 180,
+      "id": "8e2e4a218bee34d3",
+      "styleAttributes": {
+      },
+      "text": "пояснили. Дизельный котел нужен для подогрева воды так как поступает только холодная ",
+      "type": "text",
+      "width": 260,
+      "x": 4470,
+      "y": 2200
+    },
+    {
+      "height": 60,
+      "id": "9298175f1d22c7ff",
+      "styleAttributes": {
+      },
+      "text": "Оборудование должно подходить под воду ",
+      "type": "text",
+      "width": 260,
+      "x": 1410,
+      "y": 3300
+    },
+    {
+      "height": 60,
+      "id": "a8f6370e2243778e",
+      "styleAttributes": {
+      },
+      "text": "Количество поставщиков огромное",
+      "type": "text",
+      "width": 260,
+      "x": 1410,
+      "y": 3390
+    },
+    {
+      "height": 60,
+      "id": "abb1d6e3f7ec0489",
+      "styleAttributes": {
+      },
+      "text": "Доп услуги",
+      "type": "text",
+      "width": 260,
+      "x": 1100,
+      "y": 2800
+    },
+    {
+      "height": 60,
+      "id": "930abe082d020202",
+      "styleAttributes": {
+      },
+      "text": "Удобство протирки",
+      "type": "text",
+      "width": 260,
+      "x": 1100,
+      "y": 2700
+    },
+    {
+      "height": 60,
+      "id": "4cea7ed74562f200",
+      "styleAttributes": {
+      },
+      "text": "средний чек (в 21 году) от 120 до 150 рублей",
+      "type": "text",
+      "width": 260,
+      "x": 1850,
+      "y": 2820
+    },
+    {
+      "height": 60,
+      "id": "c4be42142e0d3153",
+      "styleAttributes": {
+      },
+      "text": "сильно влияет сезонность за счет теплой воды",
+      "type": "text",
+      "width": 260,
+      "x": 1850,
+      "y": 2960
+    },
+    {
+      "height": 60,
+      "id": "0095265273c6d915",
+      "styleAttributes": {
+      },
+      "text": "качество химии ",
+      "type": "text",
+      "width": 260,
+      "x": 1100,
+      "y": 2900
+    },
+    {
+      "height": 60,
+      "id": "a9c7593d33b0dc7c",
+      "styleAttributes": {
+      },
+      "text": "Давление в пистолете",
+      "type": "text",
+      "width": 260,
+      "x": 1100,
+      "y": 2980
+    },
+    {
+      "height": 60,
+      "id": "00caf4db7957c20d",
+      "styleAttributes": {
+      },
+      "text": "Удобство очереди",
+      "type": "text",
+      "width": 260,
+      "x": 1100,
+      "y": 2620
+    },
+    {
+      "height": 60,
+      "id": "d6e46844b7f5944d",
+      "styleAttributes": {
+      },
+      "text": "Удобство оплаты",
+      "type": "text",
+      "width": 260,
+      "x": 1540,
+      "y": 2820
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "476bae833bc0134e",
+      "styleAttributes": {
+      },
+      "text": "стоимость химии до 10% от стоимости мойки",
+      "type": "text",
+      "width": 260,
+      "x": 1540,
+      "y": 3040
+    },
+    {
+      "height": 80,
+      "id": "8895db05243be550",
+      "styleAttributes": {
+      },
+      "text": "Зима главный сезон, летом падает вырочка до 40%",
+      "type": "text",
+      "width": 260,
+      "x": 1830,
+      "y": 3100
+    },
+    {
+      "height": 60,
+      "id": "d73b3eead4bd0d4e",
+      "styleAttributes": {
+      },
+      "text": "Банковские карты ОБЯЗАТЕЛЬНО",
+      "type": "text",
+      "width": 260,
+      "x": 1540,
+      "y": 2910
+    },
+    {
+      "height": 60,
+      "id": "b37e44fe51238165",
+      "styleAttributes": {
+      },
+      "text": "наружная реклама",
+      "type": "text",
+      "width": 260,
+      "x": 2120,
+      "y": 2680
+    },
+    {
+      "height": 60,
+      "id": "1cc7d5f7d44abd90",
+      "styleAttributes": {
+      },
+      "text": "Химия",
+      "type": "text",
+      "width": 260,
+      "x": 1150,
+      "y": 3220
+    },
+    {
+      "height": 60,
+      "id": "b6947332609eb138",
+      "styleAttributes": {
+      },
+      "text": "на яндекс картах",
+      "type": "text",
+      "width": 260,
+      "x": 2120,
+      "y": 2500
+    },
+    {
+      "height": 60,
+      "id": "7cddc08060919625",
+      "styleAttributes": {
+      },
+      "text": "сарафанное",
+      "type": "text",
+      "width": 260,
+      "x": 2120,
+      "y": 2560
+    },
+    {
+      "height": 60,
+      "id": "9b2f653fa17c83f4",
+      "styleAttributes": {
+      },
+      "text": "банеры до открытия",
+      "type": "text",
+      "width": 260,
+      "x": 2120,
+      "y": 2620
+    },
+    {
+      "height": 100,
+      "id": "d5774d7bf61c7436",
+      "styleAttributes": {
+      },
+      "text": "Слабое давление\nнет пены\nмало функций",
+      "type": "text",
+      "width": 260,
+      "x": 2280,
+      "y": 2200
+    },
+    {
+      "height": 60,
+      "id": "77027fe418239364",
+      "styleAttributes": {
+      },
+      "text": "Удобство уборки",
+      "type": "text",
+      "width": 260,
+      "x": 1100,
+      "y": 2460
+    },
+    {
+      "height": 60,
+      "id": "ac3319760577534a",
+      "styleAttributes": {
+      },
+      "text": "Приложение мойки с системой лояльности",
+      "type": "text",
+      "width": 260,
+      "x": 1730,
+      "y": 2560
+    },
+    {
+      "height": 60,
+      "id": "602366f829a771b4",
+      "styleAttributes": {
+      },
+      "text": "Привлечение",
+      "type": "text",
+      "width": 260,
+      "x": 1900,
+      "y": 2440
+    },
+    {
+      "height": 60,
+      "id": "0dc4322f442773a2",
+      "styleAttributes": {
+      },
+      "text": "Факторы выбора ",
+      "type": "text",
+      "width": 260,
+      "x": 1320,
+      "y": 2380
+    },
+    {
+      "height": 60,
+      "id": "4d269d733d433ea7",
+      "styleAttributes": {
+      },
+      "text": "Удобство подъезда",
+      "type": "text",
+      "width": 260,
+      "x": 1100,
+      "y": 2540
+    },
+    {
+      "height": 60,
+      "id": "3b949a7702b2ddf3",
+      "styleAttributes": {
+      },
+      "text": "Важно учитьывать на этапе планирования стройки",
+      "type": "text",
+      "width": 260,
+      "x": 720,
+      "y": 2480
+    },
+    {
+      "height": 60,
+      "id": "333e4be3bce01e81",
+      "styleAttributes": {
+      },
+      "text": "Пылесос",
+      "type": "text",
+      "width": 260,
+      "x": 720,
+      "y": 2640
+    },
+    {
+      "height": 60,
+      "id": "869b6eb5b76ce3e8",
+      "styleAttributes": {
+      },
+      "text": "подкачка колес",
+      "type": "text",
+      "width": 260,
+      "x": 720,
+      "y": 2720
+    },
+    {
+      "height": 60,
+      "id": "5f7bee1cc1a4c077",
+      "styleAttributes": {
+      },
+      "text": "Клиенты ",
+      "type": "text",
+      "width": 260,
+      "x": 1600,
+      "y": 2260
+    },
+    {
+      "height": 60,
+      "id": "58f473e35f144409",
+      "styleAttributes": {
+      },
+      "text": "Европа",
+      "type": "text",
+      "width": 260,
+      "x": 1940,
+      "y": 2190
+    },
+    {
+      "height": 220,
+      "id": "5b3185b40fb6975a",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312223051.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 3670,
+      "y": 2460
+    },
+    {
+      "height": 200,
+      "id": "cb0776d88fde246d",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312223139.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 3670,
+      "y": 2680
+    },
+    {
+      "height": 120,
+      "id": "4262ba1236d600ee",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312222741.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 3170,
+      "y": 2470
+    },
+    {
+      "height": 60,
+      "id": "aedb598ca8a3f3dd",
+      "styleAttributes": {
+      },
+      "text": "кофе",
+      "type": "text",
+      "width": 260,
+      "x": 720,
+      "y": 2800
+    },
+    {
+      "height": 150,
+      "id": "a499e359d167fc52",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312222549.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 3510,
+      "y": 2150
+    },
+    {
+      "height": 120,
+      "id": "5e9bacc60f237832",
+      "styleAttributes": {
+      },
+      "text": "Об этих насосах особо не говорится но явно каждый из них подает воду на свой шланг ",
+      "type": "text",
+      "width": 260,
+      "x": 3170,
+      "y": 2120
+    },
+    {
+      "height": 60,
+      "id": "349d96f8727795cb",
+      "styleAttributes": {
+      },
+      "text": "пульт управление",
+      "type": "text",
+      "width": 260,
+      "x": 3170,
+      "y": 2310
+    },
+    {
+      "height": 60,
+      "id": "373b5e2a34c8a1ed",
+      "styleAttributes": {
+      },
+      "text": "температура минимум +3",
+      "type": "text",
+      "width": 260,
+      "x": 3560,
+      "y": 1040
+    },
+    {
+      "height": 100,
+      "id": "b92845446c096743",
+      "styleAttributes": {
+      },
+      "text": "Контур поста подогревается бетонная плита на обоггреве",
+      "type": "text",
+      "width": 300,
+      "x": 3140,
+      "y": 900
+    },
+    {
+      "height": 140,
+      "id": "a2f3bba13b0813c7",
+      "styleAttributes": {
+      },
+      "text": "При снижении температуры воды пистолеты переходят в режим автоматического протока вды и в них всегда течет вода что не дает застыть",
+      "type": "text",
+      "width": 340,
+      "x": 3140,
+      "y": 1040
+    },
+    {
+      "height": 160,
+      "id": "d28de7628f9f41b9",
+      "styleAttributes": {
+      },
+      "text": "для подключения самого дешевого оборудования в 250000-300000 руб это две кнопки функций и даже в это не входит ",
+      "type": "text",
+      "width": 260,
+      "x": 3540,
+      "y": 1380
+    },
+    {
+      "height": 60,
+      "id": "59d56b9349a626cd",
+      "styleAttributes": {
+      },
+      "text": "Еще из полезного",
+      "type": "text",
+      "width": 260,
+      "x": 3150,
+      "y": 1440
+    },
+    {
+      "height": 100,
+      "id": "1c5243620ec1e422",
+      "styleAttributes": {
+      },
+      "text": "На потолке так же идет теплый контур для подогрева шлангов с водой ",
+      "type": "text",
+      "width": 300,
+      "x": 3140,
+      "y": 1220
+    },
+    {
+      "height": 60,
+      "id": "dea8b20395e550bc",
+      "styleAttributes": {
+      },
+      "text": "стойки для ковриков",
+      "type": "text",
+      "width": 260,
+      "x": 3140,
+      "y": 440
+    },
+    {
+      "height": 80,
+      "id": "fcaf0e724db64267",
+      "styleAttributes": {
+      },
+      "text": "Под мойкой вкопаны кольца и туда стекает вода ",
+      "type": "text",
+      "width": 260,
+      "x": 3200,
+      "y": 580
+    },
+    {
+      "height": 60,
+      "id": "c28de01a13c1145d",
+      "styleAttributes": {
+      },
+      "text": "песок с водой стекает в канализацию ",
+      "type": "text",
+      "width": 260,
+      "x": 3200,
+      "y": 720
+    },
+    {
+      "height": 60,
+      "id": "10bbfc03497eb239",
+      "styleAttributes": {
+      },
+      "text": "канализация",
+      "type": "text",
+      "width": 260,
+      "x": 2820,
+      "y": 660
+    },
+    {
+      "height": 60,
+      "id": "a6d8b58932b103c4",
+      "styleAttributes": {
+      },
+      "text": "Зима",
+      "type": "text",
+      "width": 260,
+      "x": 2820,
+      "y": 920
+    },
+    {
+      "height": 60,
+      "id": "4556be9530014d34",
+      "styleAttributes": {
+      },
+      "text": "основные органы взаимодействия",
+      "type": "text",
+      "width": 260,
+      "x": 2820,
+      "y": 380
+    },
+    {
+      "height": 180,
+      "id": "5169e17ad1794b47",
+      "styleAttributes": {
+      },
+      "text": "Информационное табло \nфункции \nпрограммы\nстоимость\nакции\nбонусы и тд",
+      "type": "text",
+      "width": 260,
+      "x": 2820,
+      "y": 100
+    },
+    {
+      "height": 160,
+      "id": "d085892a033039ce",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312222326.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 3890,
+      "y": 1840
+    },
+    {
+      "height": 160,
+      "id": "f8609cdef83cc457",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312222913.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 4190,
+      "y": 1840
+    },
+    {
+      "height": 60,
+      "id": "42cb298cd18c6cd8",
+      "styleAttributes": {
+      },
+      "text": "умегчение воды",
+      "type": "text",
+      "width": 260,
+      "x": 3890,
+      "y": 1370
+    },
+    {
+      "height": 60,
+      "id": "ed2128a859b5ebc3",
+      "styleAttributes": {
+      },
+      "text": "осматическая установка",
+      "type": "text",
+      "width": 260,
+      "x": 3890,
+      "y": 1430
+    },
+    {
+      "height": 60,
+      "id": "a67b613566f4a807",
+      "styleAttributes": {
+      },
+      "text": "Котельная система (бойлер котел и тд)",
+      "type": "text",
+      "width": 260,
+      "x": 3890,
+      "y": 1490
+    },
+    {
+      "height": 60,
+      "id": "d8dbc9464eda3107",
+      "styleAttributes": {
+      },
+      "text": "из основного бака поступает в бак для мыльного расствора",
+      "type": "text",
+      "width": 260,
+      "x": 4190,
+      "y": 1600
+    },
+    {
+      "height": 100,
+      "id": "8d053e495dc6e1f2",
+      "styleAttributes": {
+      },
+      "text": "С емкости насос высокого давления подает на все шланги",
+      "type": "text",
+      "width": 260,
+      "x": 3890,
+      "y": 1660
+    },
+    {
+      "height": 310,
+      "id": "5c56bc3847ccf8b4",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312220823.png]]",
+      "type": "text",
+      "width": 400,
+      "x": 4160,
+      "y": -570
+    },
+    {
+      "height": 60,
+      "id": "a4d09e8b964d15c4",
+      "styleAttributes": {
+      },
+      "text": "устойчивость к воде",
+      "type": "text",
+      "width": 260,
+      "x": 3160,
+      "y": 130
+    },
+    {
+      "height": 60,
+      "id": "8d01a6fec0530d3a",
+      "styleAttributes": {
+      },
+      "text": "устойчивость к вандалам",
+      "type": "text",
+      "width": 260,
+      "x": 3160,
+      "y": 190
+    },
+    {
+      "height": 60,
+      "id": "42e698c91199e3ec",
+      "styleAttributes": {
+      },
+      "text": "Оплата телефоном???",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": -230
+    },
+    {
+      "height": 60,
+      "id": "8be38bf4ae0b0e54",
+      "styleAttributes": {
+      },
+      "text": "Прием купюр",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": -170
+    },
+    {
+      "height": 60,
+      "id": "ea027db668900c82",
+      "styleAttributes": {
+      },
+      "text": "прием кредитных или других способов оплаты?",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": -290
+    },
+    {
+      "file": "кеш/Pasted image 20250312220841.png",
+      "height": 346,
+      "id": "b7eec05f6b8b09b9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 4160,
+      "y": -253
+    },
+    {
+      "color": "1",
+      "height": 110,
+      "id": "e0540fbc3e66cf9b",
+      "styleAttributes": {
+      },
+      "text": "мойка на 6 постовпотребляет от 700 кубов в месяц",
+      "type": "text",
+      "width": 260,
+      "x": 3560,
+      "y": 360
+    },
+    {
+      "height": 60,
+      "id": "baedebb1a181cde6",
+      "styleAttributes": {
+      },
+      "text": "вода уходит в общий отстойник за мойкой",
+      "type": "text",
+      "width": 260,
+      "x": 3560,
+      "y": 580
+    },
+    {
+      "height": 60,
+      "id": "cb60e051ea3c590a",
+      "styleAttributes": {
+      },
+      "text": "куда девается песок не раскрыто",
+      "type": "text",
+      "width": 260,
+      "x": 3560,
+      "y": 720
+    },
+    {
+      "height": 60,
+      "id": "34f8f78fe12793cd",
+      "styleAttributes": {
+      },
+      "text": "Прием монет",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": -110
+    },
+    {
+      "height": 60,
+      "id": "3bcc0eaefdd8203b",
+      "styleAttributes": {
+      },
+      "text": "пистолет для воды",
+      "type": "text",
+      "width": 260,
+      "x": 3140,
+      "y": 320
+    },
+    {
+      "height": 60,
+      "id": "bc1f9ef811b1b159",
+      "styleAttributes": {
+      },
+      "text": "Пистолет для мыла",
+      "type": "text",
+      "width": 260,
+      "x": 3140,
+      "y": 380
+    },
+    {
+      "height": 60,
+      "id": "a7aa1a99401e8a38",
+      "styleAttributes": {
+      },
+      "text": "Основные расходы",
+      "type": "text",
+      "width": 260,
+      "x": 1820,
+      "y": 500
+    },
+    {
+      "height": 180,
+      "id": "fef1f6f7838e78c5",
+      "styleAttributes": {
+      },
+      "text": "Если строительство не капитальное то нужно получить ордер на земельные работы и ТУ(ТО?) на подключение коммуникаций ",
+      "type": "text",
+      "width": 260,
+      "x": 1890,
+      "y": 40
+    },
+    {
+      "height": 160,
+      "id": "4f083006c9801eb6",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312222218.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 3550,
+      "y": 1720
+    },
+    {
+      "height": 160,
+      "id": "5dfb03c0cef101fc",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312222128.png]]",
+      "type": "text",
+      "width": 280,
+      "x": 3140,
+      "y": 1720
+    },
+    {
+      "height": 60,
+      "id": "a997911bc030e8d2",
+      "styleAttributes": {
+      },
+      "text": "Техническое помещение",
+      "type": "text",
+      "width": 260,
+      "x": 2810,
+      "y": 1600
+    },
+    {
+      "height": 60,
+      "id": "b54ddc5c0788c40e",
+      "styleAttributes": {
+      },
+      "text": "поступает в емкость",
+      "type": "text",
+      "width": 260,
+      "x": 3550,
+      "y": 1600
+    },
+    {
+      "height": 60,
+      "id": "f1ddb75935dbbe92",
+      "styleAttributes": {
+      },
+      "text": "вода заходит сначала в фильтр",
+      "type": "text",
+      "width": 260,
+      "x": 3150,
+      "y": 1600
+    },
+    {
+      "height": 60,
+      "id": "7447eb9a9dd9e5ba",
+      "styleAttributes": {
+      },
+      "text": "Оплата картой",
+      "type": "text",
+      "width": 260,
+      "x": 3180,
+      "y": -50
+    },
+    {
+      "height": 60,
+      "id": "844485883f9a52d2",
+      "styleAttributes": {
+      },
+      "text": "Обустройство одного поста ",
+      "type": "text",
+      "width": 260,
+      "x": 2600,
+      "y": -340
+    },
+    {
+      "height": 60,
+      "id": "01b9df8c21fe3ae7",
+      "styleAttributes": {
+      },
+      "text": "Терминал для оплаты ",
+      "type": "text",
+      "width": 260,
+      "x": 2820,
+      "y": -170
     },
     {
       "height": 60,
@@ -1484,17 +2826,6 @@
       "y": -1170
     },
     {
-      "height": 60,
-      "id": "a7aa1a99401e8a38",
-      "styleAttributes": {
-      },
-      "text": "Основные расходы",
-      "type": "text",
-      "width": 260,
-      "x": 1820,
-      "y": 500
-    },
-    {
       "color": "1",
       "height": 140,
       "id": "577cbb974d442a87",
@@ -1505,28 +2836,6 @@
       "width": 260,
       "x": 2020,
       "y": 340
-    },
-    {
-      "height": 60,
-      "id": "454a0e8e8ea351b4",
-      "styleAttributes": {
-      },
-      "text": "Химия",
-      "type": "text",
-      "width": 260,
-      "x": 2020,
-      "y": 760
-    },
-    {
-      "height": 180,
-      "id": "fef1f6f7838e78c5",
-      "styleAttributes": {
-      },
-      "text": "Если строительство не капитальное то нужно получить ордер на земельные работы и ТУ(ТО?) на подключение коммуникаций ",
-      "type": "text",
-      "width": 260,
-      "x": 1890,
-      "y": 40
     },
     {
       "height": 180,
@@ -1549,6 +2858,17 @@
       "width": 260,
       "x": 2020,
       "y": -170
+    },
+    {
+      "height": 60,
+      "id": "454a0e8e8ea351b4",
+      "styleAttributes": {
+      },
+      "text": "Химия",
+      "type": "text",
+      "width": 260,
+      "x": 2020,
+      "y": 760
     },
     {
       "height": 140,
@@ -1628,6 +2948,28 @@
       "y": 2060
     },
     {
+      "height": 80,
+      "id": "50cd8d5300addc19",
+      "styleAttributes": {
+      },
+      "text": "Слабо представлены на рынке моек самообслуживания",
+      "type": "text",
+      "width": 260,
+      "x": 2280,
+      "y": 2060
+    },
+    {
+      "height": 200,
+      "id": "2b715f2ad9206c9c",
+      "styleAttributes": {
+      },
+      "text": "Окупаемость от  полутора до 3х лет но сильно большая разница. Маржинальность за вычетом всех расходов доходит 50-60%",
+      "type": "text",
+      "width": 280,
+      "x": 2180,
+      "y": 860
+    },
+    {
       "color": "3",
       "height": 200,
       "id": "c0474dfff7415dfe",
@@ -1652,84 +2994,6 @@
       "y": 1210
     },
     {
-      "height": 80,
-      "id": "50cd8d5300addc19",
-      "styleAttributes": {
-      },
-      "text": "Слабо представлены на рынке моек самообслуживания",
-      "type": "text",
-      "width": 260,
-      "x": 2280,
-      "y": 2060
-    },
-    {
-      "height": 120,
-      "id": "e3eaaa33db1f35bc",
-      "styleAttributes": {
-      },
-      "text": "Построение гипотез\nгипотезой может быть что угодно. Она требует обоснования  и проверки",
-      "type": "text",
-      "width": 260,
-      "x": -840,
-      "y": 1200
-    },
-    {
-      "height": 60,
-      "id": "6c3d4b2132377f4e",
-      "styleAttributes": {
-      },
-      "text": "Истолкование фактов",
-      "type": "text",
-      "width": 260,
-      "x": -380,
-      "y": 1040
-    },
-    {
-      "height": 60,
-      "id": "711ed0ec2047a77f",
-      "styleAttributes": {
-      },
-      "text": "Сбор фактов",
-      "type": "text",
-      "width": 260,
-      "x": -380,
-      "y": 620
-    },
-    {
-      "height": 60,
-      "id": "7a8d73e9307c4d19",
-      "styleAttributes": {
-      },
-      "text": "Задача",
-      "type": "text",
-      "width": 260,
-      "x": -380,
-      "y": -60
-    },
-    {
-      "height": 60,
-      "id": "28b32adfe141640d",
-      "styleAttributes": {
-        "border": null
-      },
-      "text": "Термины и понятия",
-      "type": "text",
-      "width": 260,
-      "x": -380,
-      "y": 100
-    },
-    {
-      "height": 200,
-      "id": "2b715f2ad9206c9c",
-      "styleAttributes": {
-      },
-      "text": "Окупаемость от  полутора до 3х лет но сильно большая разница. Маржинальность за вычетом всех расходов доходит 50-60%",
-      "type": "text",
-      "width": 280,
-      "x": 2180,
-      "y": 860
-    },
-    {
       "color": "1",
       "height": 220,
       "id": "ef5124d618f17fc6",
@@ -1743,1023 +3007,6 @@
     },
     {
       "height": 60,
-      "id": "5b9d17ad1a6ca56b",
-      "styleAttributes": {
-      },
-      "text": "Безопасность",
-      "type": "text",
-      "width": 260,
-      "x": -940,
-      "y": 860
-    },
-    {
-      "height": 60,
-      "id": "701d5bcd2ff8c9e4",
-      "styleAttributes": {
-      },
-      "text": "Оптимизация",
-      "type": "text",
-      "width": 260,
-      "x": -940,
-      "y": 920
-    },
-    {
-      "height": 60,
-      "id": "cfa139d3797566c7",
-      "styleAttributes": {
-      },
-      "text": "Гипотезы",
-      "type": "text",
-      "width": 260,
-      "x": -380,
-      "y": 1230
-    },
-    {
-      "height": 60,
-      "id": "a589816f156d48a9",
-      "styleAttributes": {
-      },
-      "text": "Выводы",
-      "type": "text",
-      "width": 260,
-      "x": -380,
-      "y": 1440
-    },
-    {
-      "height": 60,
-      "id": "0d8cdef8900c3c23",
-      "styleAttributes": {
-      },
-      "text": "Изложение",
-      "type": "text",
-      "width": 260,
-      "x": -380,
-      "y": 1640
-    },
-    {
-      "height": 60,
-      "id": "c5e1fb0b692e6c2e",
-      "styleAttributes": {
-      },
-      "text": "Время работы",
-      "type": "text",
-      "width": 260,
-      "x": -940,
-      "y": 800
-    },
-    {
-      "height": 60,
-      "id": "0db464717513bed6",
-      "styleAttributes": {
-      },
-      "text": "Гос регулирование",
-      "type": "text",
-      "width": 260,
-      "x": -940,
-      "y": 680
-    },
-    {
-      "height": 60,
-      "id": "db7f302707d95c68",
-      "styleAttributes": {
-      },
-      "text": "Оценить степень конкурентности",
-      "type": "text",
-      "width": 260,
-      "x": -940,
-      "y": 620
-    },
-    {
-      "height": 60,
-      "id": "a2262708ed6cc19f",
-      "styleAttributes": {
-      },
-      "text": "Выводы это доказанные гипотезы",
-      "type": "text",
-      "width": 260,
-      "x": -800,
-      "y": 1440
-    },
-    {
-      "height": 60,
-      "id": "5cb52eae23125a71",
-      "styleAttributes": {
-      },
-      "text": "Аренда",
-      "type": "text",
-      "width": 260,
-      "x": -940,
-      "y": 740
-    },
-    {
-      "height": 60,
-      "id": "f52474f7dfd2e52a",
-      "styleAttributes": {
-      },
-      "text": "факты по экологии автомоек",
-      "type": "text",
-      "width": 260,
-      "x": -940,
-      "y": 560
-    },
-    {
-      "height": 60,
-      "id": "91f5450759c09092",
-      "styleAttributes": {
-      },
-      "text": "Экономика автомоек",
-      "type": "text",
-      "width": 260,
-      "x": -940,
-      "y": 380
-    },
-    {
-      "height": 60,
-      "id": "c68bf913cd954035",
-      "styleAttributes": {
-      },
-      "text": "Примеры других автомоек ",
-      "type": "text",
-      "width": 260,
-      "x": -940,
-      "y": 500
-    },
-    {
-      "height": 140,
-      "id": "ebd70bc09dd367fe",
-      "styleAttributes": {
-      },
-      "text": "Факточекинг \nОчень важно проверять факты и подпирать их ссылками и подтверждениями\nВажно ставить ВСЕ под сомнение",
-      "type": "text",
-      "width": 330,
-      "x": -680,
-      "y": 210
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "27c25758bcb745b0",
-      "styleAttributes": {
-      },
-      "text": "Задачи ",
-      "type": "text",
-      "width": 260,
-      "x": -600,
-      "y": -330
-    },
-    {
-      "height": 60,
-      "id": "c795ce2ddfb5a460",
-      "styleAttributes": {
-      },
-      "text": "Исследование на тему прибыльности автомоек",
-      "type": "text",
-      "width": 260,
-      "x": -940,
-      "y": 440
-    },
-    {
-      "height": 60,
-      "id": "5e8f3645c01d06dc",
-      "styleAttributes": {
-      },
-      "text": "Фильтрация",
-      "type": "text",
-      "width": 260,
-      "x": -1320,
-      "y": 440
-    },
-    {
-      "height": 60,
-      "id": "32a13e45829871d1",
-      "styleAttributes": {
-      },
-      "text": "Документация",
-      "type": "text",
-      "width": 260,
-      "x": -1320,
-      "y": 500
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "38508ea2dd0a8b3d",
-      "styleAttributes": {
-      },
-      "text": "Важное",
-      "type": "text",
-      "width": 260,
-      "x": -600,
-      "y": -270
-    },
-    {
-      "color": "3",
-      "height": 60,
-      "id": "34aebeaf51d40d1a",
-      "styleAttributes": {
-      },
-      "text": "Комментарии",
-      "type": "text",
-      "width": 260,
-      "x": -600,
-      "y": -210
-    },
-    {
-      "height": 220,
-      "id": "5b3185b40fb6975a",
-      "styleAttributes": {
-      },
-      "text": "![[Pasted image 20250312223051.png]]",
-      "type": "text",
-      "width": 260,
-      "x": 3670,
-      "y": 2460
-    },
-    {
-      "height": 200,
-      "id": "cb0776d88fde246d",
-      "styleAttributes": {
-      },
-      "text": "![[Pasted image 20250312223139.png]]",
-      "type": "text",
-      "width": 260,
-      "x": 3670,
-      "y": 2680
-    },
-    {
-      "height": 60,
-      "id": "15509ec61ebcc06a",
-      "styleAttributes": {
-      },
-      "text": "Вода",
-      "type": "text",
-      "width": 260,
-      "x": -1400,
-      "y": 960
-    },
-    {
-      "height": 60,
-      "id": "65c07ce58f78a469",
-      "styleAttributes": {
-      },
-      "text": "На сколько сложно найти информацию",
-      "type": "text",
-      "width": 260,
-      "x": -1320,
-      "y": 680
-    },
-    {
-      "height": 60,
-      "id": "ae4147abb5094290",
-      "styleAttributes": {
-      },
-      "text": "Порог входа",
-      "type": "text",
-      "width": 260,
-      "x": -1320,
-      "y": 740
-    },
-    {
-      "height": 60,
-      "id": "6a12bb4bf6b4f03d",
-      "styleAttributes": {
-      },
-      "text": "Сколько в среднем живет автомойка",
-      "type": "text",
-      "width": 260,
-      "x": -1320,
-      "y": 800
-    },
-    {
-      "height": 60,
-      "id": "a7e0590934d186d5",
-      "styleAttributes": {
-      },
-      "text": "Сертификация",
-      "type": "text",
-      "width": 260,
-      "x": -1320,
-      "y": 560
-    },
-    {
-      "height": 60,
-      "id": "8e1c61a8f8bd8da8",
-      "styleAttributes": {
-      },
-      "text": "Электричесвто",
-      "type": "text",
-      "width": 260,
-      "x": -1400,
-      "y": 1020
-    },
-    {
-      "height": 60,
-      "id": "ffe68e6b3dc7e112",
-      "styleAttributes": {
-      },
-      "text": "Люди",
-      "type": "text",
-      "width": 260,
-      "x": -1400,
-      "y": 1080
-    },
-    {
-      "height": 60,
-      "id": "56890ae00b0c4800",
-      "styleAttributes": {
-      },
-      "text": "Расходники",
-      "type": "text",
-      "width": 260,
-      "x": -1400,
-      "y": 1140
-    },
-    {
-      "height": 60,
-      "id": "9298175f1d22c7ff",
-      "styleAttributes": {
-      },
-      "text": "Оборудование должно подходить под воду ",
-      "type": "text",
-      "width": 260,
-      "x": 1410,
-      "y": 3300
-    },
-    {
-      "height": 60,
-      "id": "a8f6370e2243778e",
-      "styleAttributes": {
-      },
-      "text": "Количество поставщиков огромное",
-      "type": "text",
-      "width": 260,
-      "x": 1410,
-      "y": 3390
-    },
-    {
-      "height": 60,
-      "id": "d6e46844b7f5944d",
-      "styleAttributes": {
-      },
-      "text": "Удобство оплаты",
-      "type": "text",
-      "width": 260,
-      "x": 1540,
-      "y": 2820
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "476bae833bc0134e",
-      "styleAttributes": {
-      },
-      "text": "стоимость химии до 10% от стоимости мойки",
-      "type": "text",
-      "width": 260,
-      "x": 1540,
-      "y": 3040
-    },
-    {
-      "height": 80,
-      "id": "8895db05243be550",
-      "styleAttributes": {
-      },
-      "text": "Зима главный сезон, летом падает вырочка до 40%",
-      "type": "text",
-      "width": 260,
-      "x": 1830,
-      "y": 3100
-    },
-    {
-      "height": 80,
-      "id": "ae42fc823f25dbc7",
-      "styleAttributes": {
-      },
-      "text": "котел греет бойлер (на 1000 литров) ",
-      "type": "text",
-      "width": 260,
-      "x": 4060,
-      "y": 2480
-    },
-    {
-      "height": 100,
-      "id": "cbed8bff65f46b50",
-      "styleAttributes": {
-      },
-      "text": "Клиент включает функцию теплая вода и может мыть теплой водой",
-      "type": "text",
-      "width": 260,
-      "x": 4090,
-      "y": 2680
-    },
-    {
-      "height": 100,
-      "id": "5b57f652c97f4bbb",
-      "styleAttributes": {
-      },
-      "text": "Так же явно используется для зимнего режима",
-      "type": "text",
-      "width": 260,
-      "x": 4350,
-      "y": 2680
-    },
-    {
-      "height": 120,
-      "id": "4262ba1236d600ee",
-      "styleAttributes": {
-      },
-      "text": "![[Pasted image 20250312222741.png]]",
-      "type": "text",
-      "width": 260,
-      "x": 3170,
-      "y": 2470
-    },
-    {
-      "height": 60,
-      "id": "d73b3eead4bd0d4e",
-      "styleAttributes": {
-      },
-      "text": "Банковские карты ОБЯЗАТЕЛЬНО",
-      "type": "text",
-      "width": 260,
-      "x": 1540,
-      "y": 2910
-    },
-    {
-      "height": 60,
-      "id": "b37e44fe51238165",
-      "styleAttributes": {
-      },
-      "text": "наружная реклама",
-      "type": "text",
-      "width": 260,
-      "x": 2120,
-      "y": 2680
-    },
-    {
-      "height": 60,
-      "id": "abb1d6e3f7ec0489",
-      "styleAttributes": {
-      },
-      "text": "Доп услуги",
-      "type": "text",
-      "width": 260,
-      "x": 1100,
-      "y": 2800
-    },
-    {
-      "height": 60,
-      "id": "8432931e6cdda3c3",
-      "styleAttributes": {
-      },
-      "text": "15/15",
-      "type": "text",
-      "width": 260,
-      "x": 2320,
-      "y": 3000
-    },
-    {
-      "height": 60,
-      "id": "930abe082d020202",
-      "styleAttributes": {
-      },
-      "text": "Удобство протирки",
-      "type": "text",
-      "width": 260,
-      "x": 1100,
-      "y": 2700
-    },
-    {
-      "height": 60,
-      "id": "4cea7ed74562f200",
-      "styleAttributes": {
-      },
-      "text": "средний чек (в 21 году) от 120 до 150 рублей",
-      "type": "text",
-      "width": 260,
-      "x": 1850,
-      "y": 2820
-    },
-    {
-      "height": 60,
-      "id": "c4be42142e0d3153",
-      "styleAttributes": {
-      },
-      "text": "сильно влияет сезонность за счет теплой воды",
-      "type": "text",
-      "width": 260,
-      "x": 1850,
-      "y": 2960
-    },
-    {
-      "height": 60,
-      "id": "1cc7d5f7d44abd90",
-      "styleAttributes": {
-      },
-      "text": "Химия",
-      "type": "text",
-      "width": 260,
-      "x": 1150,
-      "y": 3220
-    },
-    {
-      "height": 60,
-      "id": "0095265273c6d915",
-      "styleAttributes": {
-      },
-      "text": "качество химии ",
-      "type": "text",
-      "width": 260,
-      "x": 1100,
-      "y": 2900
-    },
-    {
-      "height": 60,
-      "id": "a9c7593d33b0dc7c",
-      "styleAttributes": {
-      },
-      "text": "Давление в пистолете",
-      "type": "text",
-      "width": 260,
-      "x": 1100,
-      "y": 2980
-    },
-    {
-      "height": 60,
-      "id": "15ebd549b2dc8481",
-      "styleAttributes": {
-      },
-      "text": "Вахтовый метод",
-      "type": "text",
-      "width": 260,
-      "x": 2340,
-      "y": 2880
-    },
-    {
-      "height": 60,
-      "id": "a2005e42300e8808",
-      "styleAttributes": {
-      },
-      "text": "Сутрудники",
-      "type": "text",
-      "width": 260,
-      "x": 2470,
-      "y": 2760
-    },
-    {
-      "height": 60,
-      "id": "b6947332609eb138",
-      "styleAttributes": {
-      },
-      "text": "на яндекс картах",
-      "type": "text",
-      "width": 260,
-      "x": 2120,
-      "y": 2500
-    },
-    {
-      "height": 60,
-      "id": "7cddc08060919625",
-      "styleAttributes": {
-      },
-      "text": "сарафанное",
-      "type": "text",
-      "width": 260,
-      "x": 2120,
-      "y": 2560
-    },
-    {
-      "height": 60,
-      "id": "77027fe418239364",
-      "styleAttributes": {
-      },
-      "text": "Удобство уборки",
-      "type": "text",
-      "width": 260,
-      "x": 1100,
-      "y": 2460
-    },
-    {
-      "height": 60,
-      "id": "f9a6c3863b5e5f3d",
-      "styleAttributes": {
-      },
-      "text": "Посуточный метод",
-      "type": "text",
-      "width": 260,
-      "x": 2600,
-      "y": 2880
-    },
-    {
-      "height": 60,
-      "id": "9b2f653fa17c83f4",
-      "styleAttributes": {
-      },
-      "text": "банеры до открытия",
-      "type": "text",
-      "width": 260,
-      "x": 2120,
-      "y": 2620
-    },
-    {
-      "height": 200,
-      "id": "f8c6dad18a66810d",
-      "styleAttributes": {
-      },
-      "text": "Обязательное условия так как нет защиты от вандализма\nмусор\nпроцессы и этапы мойки\n",
-      "type": "text",
-      "width": 260,
-      "x": 2470,
-      "y": 3120
-    },
-    {
-      "height": 60,
-      "id": "ac3319760577534a",
-      "styleAttributes": {
-      },
-      "text": "Приложение мойки с системой лояльности",
-      "type": "text",
-      "width": 260,
-      "x": 1730,
-      "y": 2560
-    },
-    {
-      "height": 60,
-      "id": "602366f829a771b4",
-      "styleAttributes": {
-      },
-      "text": "Привлечение",
-      "type": "text",
-      "width": 260,
-      "x": 1900,
-      "y": 2440
-    },
-    {
-      "height": 60,
-      "id": "00caf4db7957c20d",
-      "styleAttributes": {
-      },
-      "text": "Удобство очереди",
-      "type": "text",
-      "width": 260,
-      "x": 1100,
-      "y": 2620
-    },
-    {
-      "height": 60,
-      "id": "0dc4322f442773a2",
-      "styleAttributes": {
-      },
-      "text": "Факторы выбора ",
-      "type": "text",
-      "width": 260,
-      "x": 1320,
-      "y": 2380
-    },
-    {
-      "height": 60,
-      "id": "4d269d733d433ea7",
-      "styleAttributes": {
-      },
-      "text": "Удобство подъезда",
-      "type": "text",
-      "width": 260,
-      "x": 1100,
-      "y": 2540
-    },
-    {
-      "height": 160,
-      "id": "d085892a033039ce",
-      "styleAttributes": {
-      },
-      "text": "![[Pasted image 20250312222326.png]]",
-      "type": "text",
-      "width": 260,
-      "x": 3890,
-      "y": 1840
-    },
-    {
-      "height": 160,
-      "id": "f8609cdef83cc457",
-      "styleAttributes": {
-      },
-      "text": "![[Pasted image 20250312222913.png]]",
-      "type": "text",
-      "width": 260,
-      "x": 4190,
-      "y": 1840
-    },
-    {
-      "height": 200,
-      "id": "9f02070f4d9adf59",
-      "styleAttributes": {
-      },
-      "text": "Была упомянута емкость дизеля и сказано что она не работает а просто стоит.\nНе ясно что за она и для чего она нужна но скорее всего либо электричество либо обогрев или вместе ",
-      "type": "text",
-      "width": 380,
-      "x": 4000,
-      "y": 2180
-    },
-    {
-      "height": 60,
-      "id": "3b949a7702b2ddf3",
-      "styleAttributes": {
-      },
-      "text": "Важно учитьывать на этапе планирования стройки",
-      "type": "text",
-      "width": 260,
-      "x": 720,
-      "y": 2480
-    },
-    {
-      "height": 60,
-      "id": "333e4be3bce01e81",
-      "styleAttributes": {
-      },
-      "text": "Пылесос",
-      "type": "text",
-      "width": 260,
-      "x": 720,
-      "y": 2640
-    },
-    {
-      "height": 60,
-      "id": "869b6eb5b76ce3e8",
-      "styleAttributes": {
-      },
-      "text": "подкачка колес",
-      "type": "text",
-      "width": 260,
-      "x": 720,
-      "y": 2720
-    },
-    {
-      "height": 60,
-      "id": "aedb598ca8a3f3dd",
-      "styleAttributes": {
-      },
-      "text": "кофе",
-      "type": "text",
-      "width": 260,
-      "x": 720,
-      "y": 2800
-    },
-    {
-      "height": 60,
-      "id": "5f7bee1cc1a4c077",
-      "styleAttributes": {
-      },
-      "text": "Клиенты ",
-      "type": "text",
-      "width": 260,
-      "x": 1600,
-      "y": 2260
-    },
-    {
-      "height": 100,
-      "id": "d5774d7bf61c7436",
-      "styleAttributes": {
-      },
-      "text": "Слабое давление\nнет пены\nмало функций",
-      "type": "text",
-      "width": 260,
-      "x": 2280,
-      "y": 2200
-    },
-    {
-      "height": 60,
-      "id": "58f473e35f144409",
-      "styleAttributes": {
-      },
-      "text": "Европа",
-      "type": "text",
-      "width": 260,
-      "x": 1940,
-      "y": 2190
-    },
-    {
-      "height": 160,
-      "id": "4f083006c9801eb6",
-      "styleAttributes": {
-      },
-      "text": "![[Pasted image 20250312222218.png]]",
-      "type": "text",
-      "width": 260,
-      "x": 3550,
-      "y": 1720
-    },
-    {
-      "height": 180,
-      "id": "8e2e4a218bee34d3",
-      "styleAttributes": {
-      },
-      "text": "пояснили. Дизельный котел нужен для подогрева воды так как поступает только холодная ",
-      "type": "text",
-      "width": 260,
-      "x": 4470,
-      "y": 2200
-    },
-    {
-      "height": 160,
-      "id": "5dfb03c0cef101fc",
-      "styleAttributes": {
-      },
-      "text": "![[Pasted image 20250312222128.png]]",
-      "type": "text",
-      "width": 280,
-      "x": 3140,
-      "y": 1720
-    },
-    {
-      "height": 60,
-      "id": "a997911bc030e8d2",
-      "styleAttributes": {
-      },
-      "text": "Техническое помещение",
-      "type": "text",
-      "width": 260,
-      "x": 2810,
-      "y": 1600
-    },
-    {
-      "height": 150,
-      "id": "a499e359d167fc52",
-      "styleAttributes": {
-      },
-      "text": "![[Pasted image 20250312222549.png]]",
-      "type": "text",
-      "width": 260,
-      "x": 3510,
-      "y": 2150
-    },
-    {
-      "height": 120,
-      "id": "5e9bacc60f237832",
-      "styleAttributes": {
-      },
-      "text": "Об этих насосах особо не говорится но явно каждый из них подает воду на свой шланг ",
-      "type": "text",
-      "width": 260,
-      "x": 3170,
-      "y": 2120
-    },
-    {
-      "height": 60,
-      "id": "349d96f8727795cb",
-      "styleAttributes": {
-      },
-      "text": "пульт управление",
-      "type": "text",
-      "width": 260,
-      "x": 3170,
-      "y": 2310
-    },
-    {
-      "height": 60,
-      "id": "42cb298cd18c6cd8",
-      "styleAttributes": {
-      },
-      "text": "умегчение воды",
-      "type": "text",
-      "width": 260,
-      "x": 3890,
-      "y": 1370
-    },
-    {
-      "height": 160,
-      "id": "d28de7628f9f41b9",
-      "styleAttributes": {
-      },
-      "text": "для подключения самого дешевого оборудования в 250000-300000 руб это две кнопки функций и даже в это не входит ",
-      "type": "text",
-      "width": 260,
-      "x": 3540,
-      "y": 1380
-    },
-    {
-      "height": 60,
-      "id": "b54ddc5c0788c40e",
-      "styleAttributes": {
-      },
-      "text": "поступает в емкость",
-      "type": "text",
-      "width": 260,
-      "x": 3550,
-      "y": 1600
-    },
-    {
-      "height": 60,
-      "id": "ed2128a859b5ebc3",
-      "styleAttributes": {
-      },
-      "text": "осматическая установка",
-      "type": "text",
-      "width": 260,
-      "x": 3890,
-      "y": 1430
-    },
-    {
-      "height": 60,
-      "id": "a67b613566f4a807",
-      "styleAttributes": {
-      },
-      "text": "Котельная система (бойлер котел и тд)",
-      "type": "text",
-      "width": 260,
-      "x": 3890,
-      "y": 1490
-    },
-    {
-      "height": 60,
-      "id": "d8dbc9464eda3107",
-      "styleAttributes": {
-      },
-      "text": "из основного бака поступает в бак для мыльного расствора",
-      "type": "text",
-      "width": 260,
-      "x": 4190,
-      "y": 1600
-    },
-    {
-      "height": 100,
-      "id": "8d053e495dc6e1f2",
-      "styleAttributes": {
-      },
-      "text": "С емкости насос высокого давления подает на все шланги",
-      "type": "text",
-      "width": 260,
-      "x": 3890,
-      "y": 1660
-    },
-    {
-      "height": 60,
-      "id": "59d56b9349a626cd",
-      "styleAttributes": {
-      },
-      "text": "Еще из полезного",
-      "type": "text",
-      "width": 260,
-      "x": 3150,
-      "y": 1440
-    },
-    {
-      "height": 60,
-      "id": "f1ddb75935dbbe92",
-      "styleAttributes": {
-      },
-      "text": "вода заходит сначала в фильтр",
-      "type": "text",
-      "width": 260,
-      "x": 3150,
-      "y": 1600
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "e51a376ff5f79d09",
-      "styleAttributes": {
-      },
-      "text": "Договорится о встрече",
-      "type": "text",
-      "width": 260,
-      "x": 570,
-      "y": 590
-    },
-    {
-      "height": 58,
-      "id": "5158cce86c421ed1",
-      "styleAttributes": {
-      },
-      "text": "Что точно убьёт нашу автомойку?",
-      "type": "text",
-      "width": 260,
-      "x": -20,
-      "y": 1520
-    },
-    {
-      "height": 60,
-      "id": "37c7a1cbc743c0e0",
-      "styleAttributes": {
-      },
-      "text": "Дима",
-      "type": "text",
-      "width": 260,
-      "x": 570,
-      "y": 870
-    },
-    {
-      "height": 60,
-      "id": "0509e58d551df3f9",
-      "styleAttributes": {
-      },
-      "text": "Антон",
-      "type": "text",
-      "width": 260,
-      "x": 570,
-      "y": 770
-    },
-    {
-      "height": 60,
       "id": "fcbbdb238bc669d2",
       "styleAttributes": {
       },
@@ -2768,40 +3015,6 @@
       "width": 260,
       "x": 960,
       "y": 560
-    },
-    {
-      "height": 60,
-      "id": "1bfb70d8bd4ee4af",
-      "styleAttributes": {
-      },
-      "text": "Что максимизирует наши шансы?",
-      "type": "text",
-      "width": 260,
-      "x": 300,
-      "y": 1480
-    },
-    {
-      "color": "3",
-      "height": 150,
-      "id": "14f7c085884b748e",
-      "styleAttributes": {
-      },
-      "text": "По сути все между всем может быть взаимосвязано. Из гипотезы какая-то связь например с сбором фактов. и любые комбинации",
-      "type": "text",
-      "width": 330,
-      "x": 110,
-      "y": 1320
-    },
-    {
-      "height": 60,
-      "id": "cebfc062a2255c52",
-      "styleAttributes": {
-      },
-      "text": "Что мы вообще поняли ",
-      "type": "text",
-      "width": 260,
-      "x": 60,
-      "y": 1680
     },
     {
       "height": 60,
@@ -2837,6 +3050,29 @@
       "y": 740
     },
     {
+      "color": "6",
+      "height": 60,
+      "id": "e51a376ff5f79d09",
+      "styleAttributes": {
+      },
+      "text": "Договорится о встрече",
+      "type": "text",
+      "width": 260,
+      "x": 570,
+      "y": 590
+    },
+    {
+      "height": 60,
+      "id": "0509e58d551df3f9",
+      "styleAttributes": {
+      },
+      "text": "Антон",
+      "type": "text",
+      "width": 260,
+      "x": 570,
+      "y": 770
+    },
+    {
       "height": 60,
       "id": "4d074572d6d1d28b",
       "styleAttributes": {
@@ -2846,6 +3082,106 @@
       "width": 260,
       "x": 170,
       "y": 830
+    },
+    {
+      "height": 120,
+      "id": "de79e6502a9f9093",
+      "styleAttributes": {
+      },
+      "text": "Что мы понимаем под открытием автомойки, какой у нас сетап",
+      "type": "text",
+      "width": 260,
+      "x": -80,
+      "y": 160
+    },
+    {
+      "height": 60,
+      "id": "7dc4ac4aea214685",
+      "styleAttributes": {
+      },
+      "text": "открыть Автомойку",
+      "type": "text",
+      "width": 260,
+      "x": 20,
+      "y": -120
+    },
+    {
+      "height": 60,
+      "id": "346c543629a0b715",
+      "styleAttributes": {
+      },
+      "text": "открыть автомойку в Соколе",
+      "type": "text",
+      "width": 260,
+      "x": 420,
+      "y": -180
+    },
+    {
+      "height": 140,
+      "id": "8494923ac97395c8",
+      "styleAttributes": {
+      },
+      "text": "Максимизация сбора информации. За счет этого будет намного проще решить поставленную задачу",
+      "type": "text",
+      "width": 260,
+      "x": -80,
+      "y": 320
+    },
+    {
+      "height": 60,
+      "id": "37c7a1cbc743c0e0",
+      "styleAttributes": {
+      },
+      "text": "Дима",
+      "type": "text",
+      "width": 260,
+      "x": 570,
+      "y": 870
+    },
+    {
+      "height": 58,
+      "id": "5158cce86c421ed1",
+      "styleAttributes": {
+      },
+      "text": "Что точно убьёт нашу автомойку?",
+      "type": "text",
+      "width": 260,
+      "x": -20,
+      "y": 1520
+    },
+    {
+      "height": 60,
+      "id": "1bfb70d8bd4ee4af",
+      "styleAttributes": {
+      },
+      "text": "Что максимизирует наши шансы?",
+      "type": "text",
+      "width": 260,
+      "x": 300,
+      "y": 1480
+    },
+    {
+      "color": "3",
+      "height": 150,
+      "id": "14f7c085884b748e",
+      "styleAttributes": {
+      },
+      "text": "По сути все между всем может быть взаимосвязано. Из гипотезы какая-то связь например с сбором фактов. и любые комбинации",
+      "type": "text",
+      "width": 330,
+      "x": 110,
+      "y": 1320
+    },
+    {
+      "height": 60,
+      "id": "cebfc062a2255c52",
+      "styleAttributes": {
+      },
+      "text": "Что мы вообще поняли ",
+      "type": "text",
+      "width": 260,
+      "x": 60,
+      "y": 1680
     },
     {
       "height": 60,
@@ -2914,346 +3250,70 @@
       "y": 1060
     },
     {
-      "height": 120,
-      "id": "de79e6502a9f9093",
+      "height": 60,
+      "id": "a589816f156d48a9",
       "styleAttributes": {
       },
-      "text": "Что мы понимаем под открытием автомойки, какой у нас сетап",
+      "text": "Выводы",
       "type": "text",
       "width": 260,
-      "x": -80,
-      "y": 160
+      "x": -380,
+      "y": 1440
     },
     {
       "height": 60,
-      "id": "7dc4ac4aea214685",
+      "id": "0d8cdef8900c3c23",
       "styleAttributes": {
       },
-      "text": "открыть Автомойку",
+      "text": "Изложение",
       "type": "text",
       "width": 260,
-      "x": 20,
-      "y": -120
+      "x": -380,
+      "y": 1640
     },
     {
       "height": 60,
-      "id": "346c543629a0b715",
+      "id": "6c3d4b2132377f4e",
       "styleAttributes": {
       },
-      "text": "открыть автомойку в Соколе",
+      "text": "Истолкование фактов",
       "type": "text",
       "width": 260,
-      "x": 420,
-      "y": -180
-    },
-    {
-      "height": 140,
-      "id": "8494923ac97395c8",
-      "styleAttributes": {
-      },
-      "text": "Максимизация сбора информации. За счет этого будет намного проще решить поставленную задачу",
-      "type": "text",
-      "width": 260,
-      "x": -80,
-      "y": 320
-    },
-    {
-      "height": 60,
-      "id": "373b5e2a34c8a1ed",
-      "styleAttributes": {
-      },
-      "text": "температура минимум +3",
-      "type": "text",
-      "width": 260,
-      "x": 3560,
+      "x": -380,
       "y": 1040
     },
     {
-      "height": 100,
-      "id": "b92845446c096743",
+      "height": 60,
+      "id": "2f5798ac924b10e3",
       "styleAttributes": {
       },
-      "text": "Контур поста подогревается бетонная плита на обоггреве",
+      "text": "Оборудование",
       "type": "text",
-      "width": 300,
-      "x": 3140,
-      "y": 900
-    },
-    {
-      "height": 140,
-      "id": "a2f3bba13b0813c7",
-      "styleAttributes": {
-      },
-      "text": "При снижении температуры воды пистолеты переходят в режим автоматического протока вды и в них всегда течет вода что не дает застыть",
-      "type": "text",
-      "width": 340,
-      "x": 3140,
-      "y": 1040
-    },
-    {
-      "height": 100,
-      "id": "1c5243620ec1e422",
-      "styleAttributes": {
-      },
-      "text": "На потолке так же идет теплый контур для подогрева шлангов с водой ",
-      "type": "text",
-      "width": 300,
-      "x": 3140,
-      "y": 1220
+      "width": 260,
+      "x": -20,
+      "y": 500
     },
     {
       "height": 60,
-      "id": "42e698c91199e3ec",
+      "id": "56530ff304df8df0",
       "styleAttributes": {
       },
-      "text": "Оплата телефоном???",
+      "text": "https://shop-avd.ru/",
       "type": "text",
       "width": 260,
-      "x": 3180,
-      "y": -230
+      "x": 300,
+      "y": 280
     },
     {
       "height": 60,
-      "id": "8be38bf4ae0b0e54",
+      "id": "7b4311fc5ce37198",
       "styleAttributes": {
       },
-      "text": "Прием купюр",
+      "text": "https://briv.ae/",
       "type": "text",
       "width": 260,
-      "x": 3180,
-      "y": -170
-    },
-    {
-      "height": 60,
-      "id": "ea027db668900c82",
-      "styleAttributes": {
-      },
-      "text": "прием кредитных или других способов оплаты?",
-      "type": "text",
-      "width": 260,
-      "x": 3180,
-      "y": -290
-    },
-    {
-      "height": 310,
-      "id": "5c56bc3847ccf8b4",
-      "styleAttributes": {
-      },
-      "text": "![[Pasted image 20250312220823.png]]",
-      "type": "text",
-      "width": 400,
-      "x": 4160,
-      "y": -570
-    },
-    {
-      "file": "кеш/Pasted image 20250312220841.png",
-      "height": 346,
-      "id": "b7eec05f6b8b09b9",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 4160,
-      "y": -253
-    },
-    {
-      "height": 60,
-      "id": "dea8b20395e550bc",
-      "styleAttributes": {
-      },
-      "text": "стойки для ковриков",
-      "type": "text",
-      "width": 260,
-      "x": 3140,
-      "y": 440
-    },
-    {
-      "height": 80,
-      "id": "fcaf0e724db64267",
-      "styleAttributes": {
-      },
-      "text": "Под мойкой вкопаны кольца и туда стекает вода ",
-      "type": "text",
-      "width": 260,
-      "x": 3200,
-      "y": 580
-    },
-    {
-      "height": 60,
-      "id": "c28de01a13c1145d",
-      "styleAttributes": {
-      },
-      "text": "песок с водой стекает в канализацию ",
-      "type": "text",
-      "width": 260,
-      "x": 3200,
-      "y": 720
-    },
-    {
-      "color": "1",
-      "height": 110,
-      "id": "e0540fbc3e66cf9b",
-      "styleAttributes": {
-      },
-      "text": "мойка на 6 постовпотребляет от 700 кубов в месяц",
-      "type": "text",
-      "width": 260,
-      "x": 3560,
-      "y": 360
-    },
-    {
-      "height": 60,
-      "id": "baedebb1a181cde6",
-      "styleAttributes": {
-      },
-      "text": "вода уходит в общий отстойник за мойкой",
-      "type": "text",
-      "width": 260,
-      "x": 3560,
-      "y": 580
-    },
-    {
-      "height": 60,
-      "id": "cb60e051ea3c590a",
-      "styleAttributes": {
-      },
-      "text": "куда девается песок не раскрыто",
-      "type": "text",
-      "width": 260,
-      "x": 3560,
-      "y": 720
-    },
-    {
-      "height": 60,
-      "id": "34f8f78fe12793cd",
-      "styleAttributes": {
-      },
-      "text": "Прием монет",
-      "type": "text",
-      "width": 260,
-      "x": 3180,
-      "y": -110
-    },
-    {
-      "height": 60,
-      "id": "7447eb9a9dd9e5ba",
-      "styleAttributes": {
-      },
-      "text": "Оплата картой",
-      "type": "text",
-      "width": 260,
-      "x": 3180,
-      "y": -50
-    },
-    {
-      "height": 60,
-      "id": "10bbfc03497eb239",
-      "styleAttributes": {
-      },
-      "text": "канализация",
-      "type": "text",
-      "width": 260,
-      "x": 2820,
-      "y": 660
-    },
-    {
-      "height": 60,
-      "id": "a6d8b58932b103c4",
-      "styleAttributes": {
-      },
-      "text": "Зима",
-      "type": "text",
-      "width": 260,
-      "x": 2820,
-      "y": 920
-    },
-    {
-      "height": 60,
-      "id": "844485883f9a52d2",
-      "styleAttributes": {
-      },
-      "text": "Обустройство одного поста ",
-      "type": "text",
-      "width": 260,
-      "x": 2600,
-      "y": -340
-    },
-    {
-      "height": 60,
-      "id": "3bcc0eaefdd8203b",
-      "styleAttributes": {
-      },
-      "text": "пистолет для воды",
-      "type": "text",
-      "width": 260,
-      "x": 3140,
-      "y": 320
-    },
-    {
-      "height": 60,
-      "id": "bc1f9ef811b1b159",
-      "styleAttributes": {
-      },
-      "text": "Пистолет для мыла",
-      "type": "text",
-      "width": 260,
-      "x": 3140,
-      "y": 380
-    },
-    {
-      "height": 60,
-      "id": "4556be9530014d34",
-      "styleAttributes": {
-      },
-      "text": "основные органы взаимодействия",
-      "type": "text",
-      "width": 260,
-      "x": 2820,
-      "y": 380
-    },
-    {
-      "height": 180,
-      "id": "5169e17ad1794b47",
-      "styleAttributes": {
-      },
-      "text": "Информационное табло \nфункции \nпрограммы\nстоимость\nакции\nбонусы и тд",
-      "type": "text",
-      "width": 260,
-      "x": 2820,
-      "y": 100
-    },
-    {
-      "height": 60,
-      "id": "01b9df8c21fe3ae7",
-      "styleAttributes": {
-      },
-      "text": "Терминал для оплаты ",
-      "type": "text",
-      "width": 260,
-      "x": 2820,
-      "y": -170
-    },
-    {
-      "height": 60,
-      "id": "a4d09e8b964d15c4",
-      "styleAttributes": {
-      },
-      "text": "устойчивость к воде",
-      "type": "text",
-      "width": 260,
-      "x": 3160,
-      "y": 130
-    },
-    {
-      "height": 60,
-      "id": "8d01a6fec0530d3a",
-      "styleAttributes": {
-      },
-      "text": "устойчивость к вандалам",
-      "type": "text",
-      "width": 260,
-      "x": 3160,
-      "y": 190
+      "x": 300,
+      "y": 340
     }
   ]
 }
