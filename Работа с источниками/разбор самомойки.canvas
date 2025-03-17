@@ -977,17 +977,6 @@
     },
     {
       "height": 60,
-      "id": "4f925fc33abb2b59",
-      "styleAttributes": {
-      },
-      "text": "Аренда",
-      "type": "text",
-      "width": 260,
-      "x": -705,
-      "y": -500
-    },
-    {
-      "height": 60,
       "id": "8ce9b859e7397ecb",
       "styleAttributes": {
       },
@@ -999,14 +988,180 @@
     },
     {
       "height": 60,
-      "id": "da262d3e855d807b",
+      "id": "4a8ccb023a40116a",
       "styleAttributes": {
       },
-      "text": "Прием монет",
+      "text": "основные органы взаимодействия",
       "type": "text",
       "width": 260,
-      "x": 455,
-      "y": -1250
+      "x": 95,
+      "y": -760
+    },
+    {
+      "height": 80,
+      "id": "940fcd6d90c8f457",
+      "styleAttributes": {
+      },
+      "text": "Под мойкой вкопаны кольца и туда стекает вода ",
+      "type": "text",
+      "width": 260,
+      "x": 475,
+      "y": -560
+    },
+    {
+      "height": 60,
+      "id": "173e1aef52144392",
+      "styleAttributes": {
+      },
+      "text": "вода уходит в общий отстойник за мойкой",
+      "type": "text",
+      "width": 260,
+      "x": 835,
+      "y": -560
+    },
+    {
+      "color": "1",
+      "height": 110,
+      "id": "e5ab28726ce60a5d",
+      "styleAttributes": {
+      },
+      "text": "мойка на 6 постовпотребляет от 700 кубов в месяц",
+      "type": "text",
+      "width": 260,
+      "x": 835,
+      "y": -780
+    },
+    {
+      "height": 100,
+      "id": "691ec2e0776f8e52",
+      "styleAttributes": {
+      },
+      "text": "Контур поста подогревается бетонная плита на обоггреве",
+      "type": "text",
+      "width": 300,
+      "x": 415,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "ff6088b13f733fba",
+      "styleAttributes": {
+      },
+      "text": "песок с водой стекает в канализацию ",
+      "type": "text",
+      "width": 260,
+      "x": 475,
+      "y": -420
+    },
+    {
+      "height": 60,
+      "id": "93d40f2e49ed0982",
+      "styleAttributes": {
+      },
+      "text": "куда девается песок не раскрыто",
+      "type": "text",
+      "width": 260,
+      "x": 835,
+      "y": -420
+    },
+    {
+      "height": 60,
+      "id": "18a88040898ec708",
+      "styleAttributes": {
+      },
+      "text": "Зима",
+      "type": "text",
+      "width": 260,
+      "x": 95,
+      "y": -220
+    },
+    {
+      "height": 60,
+      "id": "a48a616fbe10d4bb",
+      "styleAttributes": {
+      },
+      "text": "канализация",
+      "type": "text",
+      "width": 260,
+      "x": 95,
+      "y": -480
+    },
+    {
+      "height": 60,
+      "id": "9aa4894963b2ce8b",
+      "styleAttributes": {
+      },
+      "text": "ЗП",
+      "type": "text",
+      "width": 260,
+      "x": -705,
+      "y": -440
+    },
+    {
+      "height": 60,
+      "id": "dae9e99904df1b4b",
+      "styleAttributes": {
+      },
+      "text": "Химия",
+      "type": "text",
+      "width": 260,
+      "x": -705,
+      "y": -380
+    },
+    {
+      "height": 200,
+      "id": "176998b48d3f06fb",
+      "styleAttributes": {
+      },
+      "text": "Окупаемость от  полутора до 3х лет но сильно большая разница. Маржинальность за вычетом всех расходов доходит 50-60%",
+      "type": "text",
+      "width": 280,
+      "x": -545,
+      "y": -280
+    },
+    {
+      "height": 60,
+      "id": "e550ed32e2208c33",
+      "styleAttributes": {
+      },
+      "text": "устойчивость к воде",
+      "type": "text",
+      "width": 260,
+      "x": 435,
+      "y": -1010
+    },
+    {
+      "height": 60,
+      "id": "741624fda9ddb3a8",
+      "styleAttributes": {
+      },
+      "text": "устойчивость к вандалам",
+      "type": "text",
+      "width": 260,
+      "x": 435,
+      "y": -950
+    },
+    {
+      "height": 180,
+      "id": "43e893337ecd1b76",
+      "styleAttributes": {
+      },
+      "text": "Информационное табло \nфункции \nпрограммы\nстоимость\nакции\nбонусы и тд",
+      "type": "text",
+      "width": 260,
+      "x": 95,
+      "y": -1040
+    },
+    {
+      "height": 120,
+      "id": "f483fb3b68ca0709",
+      "styleAttributes": {
+      },
+      "text": "Капитальное строительство или нет ",
+      "type": "text",
+      "width": 260,
+      "x": -705,
+      "y": -1310
     },
     {
       "height": 60,
@@ -1021,26 +1176,14 @@
     },
     {
       "height": 60,
-      "id": "4a8ccb023a40116a",
+      "id": "4f925fc33abb2b59",
       "styleAttributes": {
       },
-      "text": "основные органы взаимодействия",
-      "type": "text",
-      "width": 260,
-      "x": 95,
-      "y": -760
-    },
-    {
-      "color": "1",
-      "height": 140,
-      "id": "1def682649d31492",
-      "styleAttributes": {
-      },
-      "text": "На открытие одной автомойки на 6 постов со всем оборудованием и тд ушло 12 млн рублей (в году 2018 примерно)",
+      "text": "Аренда",
       "type": "text",
       "width": 260,
       "x": -705,
-      "y": -800
+      "y": -500
     },
     {
       "height": 60,
@@ -1066,28 +1209,6 @@
     },
     {
       "height": 60,
-      "id": "e550ed32e2208c33",
-      "styleAttributes": {
-      },
-      "text": "устойчивость к воде",
-      "type": "text",
-      "width": 260,
-      "x": 435,
-      "y": -1010
-    },
-    {
-      "height": 60,
-      "id": "741624fda9ddb3a8",
-      "styleAttributes": {
-      },
-      "text": "устойчивость к вандалам",
-      "type": "text",
-      "width": 260,
-      "x": 435,
-      "y": -950
-    },
-    {
-      "height": 60,
       "id": "425dd3024fe7f6f9",
       "styleAttributes": {
       },
@@ -1099,36 +1220,37 @@
     },
     {
       "height": 60,
-      "id": "273692973e0b689e",
+      "id": "a2bc3878e8d097cc",
       "styleAttributes": {
       },
-      "text": "Оплата телефоном???",
-      "type": "text",
-      "width": 260,
-      "x": 455,
-      "y": -1370
-    },
-    {
-      "height": 60,
-      "id": "2f0a65b03782da2c",
-      "styleAttributes": {
-      },
-      "text": "Прием купюр",
-      "type": "text",
-      "width": 260,
-      "x": 455,
-      "y": -1310
-    },
-    {
-      "height": 180,
-      "id": "43e893337ecd1b76",
-      "styleAttributes": {
-      },
-      "text": "Информационное табло \nфункции \nпрограммы\nстоимость\nакции\nбонусы и тд",
+      "text": "Терминал для оплаты ",
       "type": "text",
       "width": 260,
       "x": 95,
-      "y": -1040
+      "y": -1310
+    },
+    {
+      "height": 60,
+      "id": "909a37ce9eec5863",
+      "styleAttributes": {
+      },
+      "text": "Обустройство одного поста ",
+      "type": "text",
+      "width": 260,
+      "x": -125,
+      "y": -1480
+    },
+    {
+      "color": "1",
+      "height": 140,
+      "id": "1def682649d31492",
+      "styleAttributes": {
+      },
+      "text": "На открытие одной автомойки на 6 постов со всем оборудованием и тд ушло 12 млн рублей (в году 2018 примерно)",
+      "type": "text",
+      "width": 260,
+      "x": -705,
+      "y": -800
     },
     {
       "height": 180,
@@ -1153,48 +1275,15 @@
       "y": -1100
     },
     {
-      "height": 120,
-      "id": "f483fb3b68ca0709",
-      "styleAttributes": {
-      },
-      "text": "Капитальное строительство или нет ",
-      "type": "text",
-      "width": 260,
-      "x": -705,
-      "y": -1310
-    },
-    {
       "height": 60,
-      "id": "a2bc3878e8d097cc",
+      "id": "273692973e0b689e",
       "styleAttributes": {
       },
-      "text": "Терминал для оплаты ",
+      "text": "Оплата телефоном???",
       "type": "text",
       "width": 260,
-      "x": 95,
-      "y": -1310
-    },
-    {
-      "height": 310,
-      "id": "d5732b6ea9e098e1",
-      "styleAttributes": {
-      },
-      "text": "![[Pasted image 20250312220823.png]]",
-      "type": "text",
-      "width": 400,
-      "x": 1435,
-      "y": -1710
-    },
-    {
-      "file": "кеш/Pasted image 20250312220841.png",
-      "height": 346,
-      "id": "5db90f001b45b6bf",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 1435,
-      "y": -1393
+      "x": 455,
+      "y": -1370
     },
     {
       "height": 140,
@@ -1231,17 +1320,6 @@
     },
     {
       "height": 60,
-      "id": "909a37ce9eec5863",
-      "styleAttributes": {
-      },
-      "text": "Обустройство одного поста ",
-      "type": "text",
-      "width": 260,
-      "x": -125,
-      "y": -1480
-    },
-    {
-      "height": 60,
       "id": "dcddb1bc0a5de9f6",
       "styleAttributes": {
       },
@@ -1275,6 +1353,50 @@
     },
     {
       "height": 60,
+      "id": "2f0a65b03782da2c",
+      "styleAttributes": {
+      },
+      "text": "Прием купюр",
+      "type": "text",
+      "width": 260,
+      "x": 455,
+      "y": -1310
+    },
+    {
+      "height": 310,
+      "id": "d5732b6ea9e098e1",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312220823.png]]",
+      "type": "text",
+      "width": 400,
+      "x": 1435,
+      "y": -1710
+    },
+    {
+      "height": 60,
+      "id": "da262d3e855d807b",
+      "styleAttributes": {
+      },
+      "text": "Прием монет",
+      "type": "text",
+      "width": 260,
+      "x": 455,
+      "y": -1250
+    },
+    {
+      "file": "кеш/Pasted image 20250312220841.png",
+      "height": 346,
+      "id": "5db90f001b45b6bf",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 1435,
+      "y": -1393
+    },
+    {
+      "height": 60,
       "id": "60e626db4784e1e9",
       "styleAttributes": {
       },
@@ -1286,95 +1408,6 @@
     },
     {
       "height": 60,
-      "id": "5b8d60158845ad02",
-      "styleAttributes": {
-      },
-      "text": "на яндекс картах",
-      "type": "text",
-      "width": 260,
-      "x": -605,
-      "y": 1360
-    },
-    {
-      "height": 60,
-      "id": "f0d3dbf2fd200fa2",
-      "styleAttributes": {
-      },
-      "text": "сарафанное",
-      "type": "text",
-      "width": 260,
-      "x": -605,
-      "y": 1420
-    },
-    {
-      "height": 60,
-      "id": "8567940b2ba55f37",
-      "styleAttributes": {
-      },
-      "text": "Банковские карты ОБЯЗАТЕЛЬНО",
-      "type": "text",
-      "width": 260,
-      "x": -1185,
-      "y": 1770
-    },
-    {
-      "height": 60,
-      "id": "ccf0527c1ba8791f",
-      "styleAttributes": {
-      },
-      "text": "сильно влияет сезонность за счет теплой воды",
-      "type": "text",
-      "width": 260,
-      "x": -875,
-      "y": 1820
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "e896ae1da4efaacd",
-      "styleAttributes": {
-      },
-      "text": "стоимость химии до 10% от стоимости мойки",
-      "type": "text",
-      "width": 260,
-      "x": -1185,
-      "y": 1900
-    },
-    {
-      "height": 80,
-      "id": "0fde601c90ef9c1f",
-      "styleAttributes": {
-      },
-      "text": "Зима главный сезон, летом падает вырочка до 40%",
-      "type": "text",
-      "width": 260,
-      "x": -895,
-      "y": 1960
-    },
-    {
-      "height": 60,
-      "id": "13e920212dfb9cf7",
-      "styleAttributes": {
-      },
-      "text": "Удобство оплаты",
-      "type": "text",
-      "width": 260,
-      "x": -1185,
-      "y": 1680
-    },
-    {
-      "height": 60,
-      "id": "7389c720258d3c77",
-      "styleAttributes": {
-      },
-      "text": "средний чек (в 21 году) от 120 до 150 рублей",
-      "type": "text",
-      "width": 260,
-      "x": -875,
-      "y": 1680
-    },
-    {
-      "height": 60,
       "id": "d9871903813cd246",
       "styleAttributes": {
       },
@@ -1383,6 +1416,61 @@
       "width": 260,
       "x": -460,
       "y": -2420
+    },
+    {
+      "height": 60,
+      "id": "051bf8ee69db564e",
+      "styleAttributes": {
+      },
+      "text": "Вахтовый метод",
+      "type": "text",
+      "width": 260,
+      "x": -385,
+      "y": 1740
+    },
+    {
+      "height": 60,
+      "id": "9d2d0740ac2b6d01",
+      "styleAttributes": {
+      },
+      "text": "15/15",
+      "type": "text",
+      "width": 260,
+      "x": -405,
+      "y": 1860
+    },
+    {
+      "height": 60,
+      "id": "f5dda349aa2a94fd",
+      "styleAttributes": {
+      },
+      "text": "Сутрудники",
+      "type": "text",
+      "width": 260,
+      "x": -255,
+      "y": 1620
+    },
+    {
+      "height": 60,
+      "id": "ef09bb3b697386d8",
+      "styleAttributes": {
+      },
+      "text": "Количество поставщиков огромное",
+      "type": "text",
+      "width": 260,
+      "x": -1315,
+      "y": 2250
+    },
+    {
+      "height": 60,
+      "id": "dd8d4ec426ccbc73",
+      "styleAttributes": {
+      },
+      "text": "Оборудование должно подходить под воду ",
+      "type": "text",
+      "width": 260,
+      "x": -1315,
+      "y": 2160
     },
     {
       "height": 60,
@@ -1408,39 +1496,6 @@
     },
     {
       "height": 60,
-      "id": "2a69e850c543a439",
-      "styleAttributes": {
-      },
-      "text": "Удобство очереди",
-      "type": "text",
-      "width": 260,
-      "x": -1625,
-      "y": 1480
-    },
-    {
-      "height": 60,
-      "id": "811af6459681bfca",
-      "styleAttributes": {
-      },
-      "text": "Удобство уборки",
-      "type": "text",
-      "width": 260,
-      "x": -1625,
-      "y": 1320
-    },
-    {
-      "height": 60,
-      "id": "6abd0cdb150c6f32",
-      "styleAttributes": {
-      },
-      "text": "Удобство подъезда",
-      "type": "text",
-      "width": 260,
-      "x": -1625,
-      "y": 1400
-    },
-    {
-      "height": 60,
       "id": "3f72f3f69357672d",
       "styleAttributes": {
       },
@@ -1451,26 +1506,59 @@
       "y": 2080
     },
     {
-      "height": 60,
-      "id": "dd8d4ec426ccbc73",
+      "height": 100,
+      "id": "e5e91848f2751c78",
       "styleAttributes": {
       },
-      "text": "Оборудование должно подходить под воду ",
+      "text": "Слабое давление\nнет пены\nмало функций",
       "type": "text",
       "width": 260,
-      "x": -1315,
-      "y": 2160
+      "x": -445,
+      "y": 1060
     },
     {
       "height": 60,
-      "id": "ef09bb3b697386d8",
+      "id": "5b8d60158845ad02",
       "styleAttributes": {
       },
-      "text": "Количество поставщиков огромное",
+      "text": "на яндекс картах",
       "type": "text",
       "width": 260,
-      "x": -1315,
-      "y": 2250
+      "x": -605,
+      "y": 1360
+    },
+    {
+      "height": 60,
+      "id": "a3fd1047f9d9ab67",
+      "styleAttributes": {
+      },
+      "text": "Посуточный метод",
+      "type": "text",
+      "width": 260,
+      "x": -125,
+      "y": 1740
+    },
+    {
+      "height": 200,
+      "id": "5b32bc6b4c297140",
+      "styleAttributes": {
+      },
+      "text": "Обязательное условия так как нет защиты от вандализма\nмусор\nпроцессы и этапы мойки\n",
+      "type": "text",
+      "width": 260,
+      "x": -255,
+      "y": 1980
+    },
+    {
+      "height": 60,
+      "id": "f0d3dbf2fd200fa2",
+      "styleAttributes": {
+      },
+      "text": "сарафанное",
+      "type": "text",
+      "width": 260,
+      "x": -605,
+      "y": 1420
     },
     {
       "height": 60,
@@ -1496,39 +1584,6 @@
     },
     {
       "height": 60,
-      "id": "21ae3afa17a25844",
-      "styleAttributes": {
-      },
-      "text": "Удобство протирки",
-      "type": "text",
-      "width": 260,
-      "x": -1625,
-      "y": 1560
-    },
-    {
-      "height": 60,
-      "id": "bc58f2a463c14503",
-      "styleAttributes": {
-      },
-      "text": "Факторы выбора ",
-      "type": "text",
-      "width": 260,
-      "x": -1405,
-      "y": 1240
-    },
-    {
-      "height": 60,
-      "id": "8d4b2635badf1b10",
-      "styleAttributes": {
-      },
-      "text": "Доп услуги",
-      "type": "text",
-      "width": 260,
-      "x": -1625,
-      "y": 1660
-    },
-    {
-      "height": 60,
       "id": "bdc6cae9c1a151fd",
       "styleAttributes": {
       },
@@ -1537,6 +1592,108 @@
       "width": 260,
       "x": -1125,
       "y": 1120
+    },
+    {
+      "height": 160,
+      "id": "8adb9402704746d2",
+      "styleAttributes": {
+      },
+      "text": "Сбор из тех же комплектующих что и европа\nвысокое давление\nмного функций\n",
+      "type": "text",
+      "width": 260,
+      "x": -445,
+      "y": 690
+    },
+    {
+      "height": 80,
+      "id": "2c7f6545f4efa84c",
+      "styleAttributes": {
+      },
+      "text": "Слабо представлены на рынке моек самообслуживания",
+      "type": "text",
+      "width": 260,
+      "x": -445,
+      "y": 920
+    },
+    {
+      "color": "1",
+      "height": 220,
+      "id": "8ebd45eabb23a328",
+      "styleAttributes": {
+      },
+      "text": "Открывать на два поста вообще не имеет смысла так как основыные расходы по подведению ком. строительство и тд одни и те же, и добавить еще два поста становится крайне разумным для оптимизации расходов \nТех комната будет по сути одна и та же что для 2х постов что для 4х и даже для 6",
+      "type": "text",
+      "width": 380,
+      "x": -1085,
+      "y": -280
+    },
+    {
+      "color": "3",
+      "height": 200,
+      "id": "a6591f12afc8a9ee",
+      "styleAttributes": {
+      },
+      "text": "80% успеха это выбор места и возможность подключения ком услуг.\nтак же важно иметь возможность заключать как можно более долгосрочный договор аренды и выбор оборудования ",
+      "type": "text",
+      "width": 380,
+      "x": -785,
+      "y": 0
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "6d57cbd7d63916d0",
+      "styleAttributes": {
+      },
+      "text": "итог от автора",
+      "type": "text",
+      "width": 260,
+      "x": -1105,
+      "y": 70
+    },
+    {
+      "height": 60,
+      "id": "8567940b2ba55f37",
+      "styleAttributes": {
+      },
+      "text": "Банковские карты ОБЯЗАТЕЛЬНО",
+      "type": "text",
+      "width": 260,
+      "x": -1185,
+      "y": 1770
+    },
+    {
+      "height": 60,
+      "id": "13e920212dfb9cf7",
+      "styleAttributes": {
+      },
+      "text": "Удобство оплаты",
+      "type": "text",
+      "width": 260,
+      "x": -1185,
+      "y": 1680
+    },
+    {
+      "height": 60,
+      "id": "e2517466dca0e226",
+      "styleAttributes": {
+      },
+      "text": "Европа",
+      "type": "text",
+      "width": 260,
+      "x": -785,
+      "y": 1050
+    },
+    {
+      "height": 60,
+      "id": "5cbd5dd4604a96f6",
+      "styleAttributes": {
+      },
+      "text": "Оборудование",
+      "type": "text",
+      "width": 260,
+      "x": -985,
+      "y": 650
     },
     {
       "height": 60,
@@ -1559,6 +1716,161 @@
       "width": 260,
       "x": -785,
       "y": 920
+    },
+    {
+      "height": 60,
+      "id": "ccf0527c1ba8791f",
+      "styleAttributes": {
+      },
+      "text": "сильно влияет сезонность за счет теплой воды",
+      "type": "text",
+      "width": 260,
+      "x": -875,
+      "y": 1820
+    },
+    {
+      "height": 60,
+      "id": "7389c720258d3c77",
+      "styleAttributes": {
+      },
+      "text": "средний чек (в 21 году) от 120 до 150 рублей",
+      "type": "text",
+      "width": 260,
+      "x": -875,
+      "y": 1680
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "e896ae1da4efaacd",
+      "styleAttributes": {
+      },
+      "text": "стоимость химии до 10% от стоимости мойки",
+      "type": "text",
+      "width": 260,
+      "x": -1185,
+      "y": 1900
+    },
+    {
+      "height": 60,
+      "id": "811af6459681bfca",
+      "styleAttributes": {
+      },
+      "text": "Удобство уборки",
+      "type": "text",
+      "width": 260,
+      "x": -1625,
+      "y": 1320
+    },
+    {
+      "height": 60,
+      "id": "6abd0cdb150c6f32",
+      "styleAttributes": {
+      },
+      "text": "Удобство подъезда",
+      "type": "text",
+      "width": 260,
+      "x": -1625,
+      "y": 1400
+    },
+    {
+      "height": 60,
+      "id": "2a69e850c543a439",
+      "styleAttributes": {
+      },
+      "text": "Удобство очереди",
+      "type": "text",
+      "width": 260,
+      "x": -1625,
+      "y": 1480
+    },
+    {
+      "height": 80,
+      "id": "0fde601c90ef9c1f",
+      "styleAttributes": {
+      },
+      "text": "Зима главный сезон, летом падает вырочка до 40%",
+      "type": "text",
+      "width": 260,
+      "x": -895,
+      "y": 1960
+    },
+    {
+      "height": 60,
+      "id": "bc58f2a463c14503",
+      "styleAttributes": {
+      },
+      "text": "Факторы выбора ",
+      "type": "text",
+      "width": 260,
+      "x": -1405,
+      "y": 1240
+    },
+    {
+      "height": 60,
+      "id": "947f1a2688271795",
+      "styleAttributes": {
+      },
+      "text": "Приложение мойки с системой лояльности",
+      "type": "text",
+      "width": 260,
+      "x": -995,
+      "y": 1420
+    },
+    {
+      "height": 60,
+      "id": "393cb6e4e28b1241",
+      "styleAttributes": {
+      },
+      "text": "Привлечение",
+      "type": "text",
+      "width": 260,
+      "x": -825,
+      "y": 1300
+    },
+    {
+      "height": 200,
+      "id": "198000dec65f7b0c",
+      "styleAttributes": {
+      },
+      "text": "Была упомянута емкость дизеля и сказано что она не работает а просто стоит.\nНе ясно что за она и для чего она нужна но скорее всего либо электричество либо обогрев или вместе ",
+      "type": "text",
+      "width": 380,
+      "x": 1275,
+      "y": 1040
+    },
+    {
+      "height": 80,
+      "id": "954027a29af63bfa",
+      "styleAttributes": {
+      },
+      "text": "котел греет бойлер (на 1000 литров) ",
+      "type": "text",
+      "width": 260,
+      "x": 1335,
+      "y": 1340
+    },
+    {
+      "height": 100,
+      "id": "dcbb2e7bc8027d19",
+      "styleAttributes": {
+      },
+      "text": "Клиент включает функцию теплая вода и может мыть теплой водой",
+      "type": "text",
+      "width": 260,
+      "x": 1365,
+      "y": 1540
+    },
+    {
+      "height": 180,
+      "id": "1fc9d9f8a52dd169",
+      "styleAttributes": {
+      },
+      "text": "пояснили. Дизельный котел нужен для подогрева воды так как поступает только холодная ",
+      "type": "text",
+      "width": 260,
+      "x": 1745,
+      "y": 1060
     },
     {
       "height": 60,
@@ -1605,147 +1917,48 @@
       "y": 1660
     },
     {
-      "height": 160,
-      "id": "8adb9402704746d2",
+      "height": 60,
+      "id": "21ae3afa17a25844",
       "styleAttributes": {
       },
-      "text": "Сбор из тех же комплектующих что и европа\nвысокое давление\nмного функций\n",
+      "text": "Удобство протирки",
       "type": "text",
       "width": 260,
-      "x": -445,
-      "y": 690
-    },
-    {
-      "height": 80,
-      "id": "2c7f6545f4efa84c",
-      "styleAttributes": {
-      },
-      "text": "Слабо представлены на рынке моек самообслуживания",
-      "type": "text",
-      "width": 260,
-      "x": -445,
-      "y": 920
-    },
-    {
-      "height": 100,
-      "id": "e5e91848f2751c78",
-      "styleAttributes": {
-      },
-      "text": "Слабое давление\nнет пены\nмало функций",
-      "type": "text",
-      "width": 260,
-      "x": -445,
-      "y": 1060
+      "x": -1625,
+      "y": 1560
     },
     {
       "height": 60,
-      "id": "051bf8ee69db564e",
+      "id": "8d4b2635badf1b10",
       "styleAttributes": {
       },
-      "text": "Вахтовый метод",
+      "text": "Доп услуги",
       "type": "text",
       "width": 260,
-      "x": -385,
-      "y": 1740
-    },
-    {
-      "height": 60,
-      "id": "9d2d0740ac2b6d01",
-      "styleAttributes": {
-      },
-      "text": "15/15",
-      "type": "text",
-      "width": 260,
-      "x": -405,
-      "y": 1860
-    },
-    {
-      "height": 60,
-      "id": "f5dda349aa2a94fd",
-      "styleAttributes": {
-      },
-      "text": "Сутрудники",
-      "type": "text",
-      "width": 260,
-      "x": -255,
-      "y": 1620
-    },
-    {
-      "height": 60,
-      "id": "a3fd1047f9d9ab67",
-      "styleAttributes": {
-      },
-      "text": "Посуточный метод",
-      "type": "text",
-      "width": 260,
-      "x": -125,
-      "y": 1740
-    },
-    {
-      "height": 60,
-      "id": "e2517466dca0e226",
-      "styleAttributes": {
-      },
-      "text": "Европа",
-      "type": "text",
-      "width": 260,
-      "x": -785,
-      "y": 1050
-    },
-    {
-      "height": 60,
-      "id": "947f1a2688271795",
-      "styleAttributes": {
-      },
-      "text": "Приложение мойки с системой лояльности",
-      "type": "text",
-      "width": 260,
-      "x": -995,
-      "y": 1420
-    },
-    {
-      "height": 60,
-      "id": "393cb6e4e28b1241",
-      "styleAttributes": {
-      },
-      "text": "Привлечение",
-      "type": "text",
-      "width": 260,
-      "x": -825,
-      "y": 1300
-    },
-    {
-      "height": 200,
-      "id": "5b32bc6b4c297140",
-      "styleAttributes": {
-      },
-      "text": "Обязательное условия так как нет защиты от вандализма\nмусор\nпроцессы и этапы мойки\n",
-      "type": "text",
-      "width": 260,
-      "x": -255,
-      "y": 1980
+      "x": -1625,
+      "y": 1660
     },
     {
       "height": 160,
-      "id": "8519f2972646c1ae",
+      "id": "5e69a3d954bb7a77",
       "styleAttributes": {
       },
-      "text": "![[Pasted image 20250312222326.png]]",
+      "text": "![[Pasted image 20250312222218.png]]",
       "type": "text",
       "width": 260,
-      "x": 1165,
-      "y": 700
+      "x": 825,
+      "y": 580
     },
     {
-      "height": 200,
-      "id": "198000dec65f7b0c",
+      "height": 140,
+      "id": "14d1144022eb45a4",
       "styleAttributes": {
       },
-      "text": "Была упомянута емкость дизеля и сказано что она не работает а просто стоит.\nНе ясно что за она и для чего она нужна но скорее всего либо электричество либо обогрев или вместе ",
+      "text": "При снижении температуры воды пистолеты переходят в режим автоматического протока вды и в них всегда течет вода что не дает застыть",
       "type": "text",
-      "width": 380,
-      "x": 1275,
-      "y": 1040
+      "width": 340,
+      "x": 415,
+      "y": -100
     },
     {
       "height": 60,
@@ -1759,39 +1972,6 @@
       "y": 460
     },
     {
-      "height": 80,
-      "id": "954027a29af63bfa",
-      "styleAttributes": {
-      },
-      "text": "котел греет бойлер (на 1000 литров) ",
-      "type": "text",
-      "width": 260,
-      "x": 1335,
-      "y": 1340
-    },
-    {
-      "height": 100,
-      "id": "dcbb2e7bc8027d19",
-      "styleAttributes": {
-      },
-      "text": "Клиент включает функцию теплая вода и может мыть теплой водой",
-      "type": "text",
-      "width": 260,
-      "x": 1365,
-      "y": 1540
-    },
-    {
-      "height": 180,
-      "id": "1fc9d9f8a52dd169",
-      "styleAttributes": {
-      },
-      "text": "пояснили. Дизельный котел нужен для подогрева воды так как поступает только холодная ",
-      "type": "text",
-      "width": 260,
-      "x": 1745,
-      "y": 1060
-    },
-    {
       "height": 100,
       "id": "310c51af944bb34d",
       "styleAttributes": {
@@ -1801,6 +1981,17 @@
       "width": 260,
       "x": 1625,
       "y": 1540
+    },
+    {
+      "height": 60,
+      "id": "c2ff4e205e8d0c95",
+      "styleAttributes": {
+      },
+      "text": "температура минимум +3",
+      "type": "text",
+      "width": 260,
+      "x": 835,
+      "y": -100
     },
     {
       "height": 100,
@@ -1825,6 +2016,39 @@
       "y": 700
     },
     {
+      "height": 160,
+      "id": "8519f2972646c1ae",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312222326.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 1165,
+      "y": 700
+    },
+    {
+      "height": 220,
+      "id": "f744094db7266011",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312223051.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 945,
+      "y": 1320
+    },
+    {
+      "height": 200,
+      "id": "03b93954fc00d1d6",
+      "styleAttributes": {
+      },
+      "text": "![[Pasted image 20250312223139.png]]",
+      "type": "text",
+      "width": 260,
+      "x": 945,
+      "y": 1540
+    },
+    {
       "height": 60,
       "id": "0b95f6fa13fb51ca",
       "styleAttributes": {
@@ -1834,6 +2058,61 @@
       "width": 260,
       "x": 85,
       "y": 460
+    },
+    {
+      "height": 60,
+      "id": "161689962b64b90f",
+      "styleAttributes": {
+      },
+      "text": "Еще из полезного",
+      "type": "text",
+      "width": 260,
+      "x": 425,
+      "y": 300
+    },
+    {
+      "height": 160,
+      "id": "cf47b3b82c8657a6",
+      "styleAttributes": {
+      },
+      "text": "для подключения самого дешевого оборудования в 250000-300000 руб это две кнопки функций и даже в это не входит ",
+      "type": "text",
+      "width": 260,
+      "x": 815,
+      "y": 240
+    },
+    {
+      "height": 100,
+      "id": "01ea63a30b28ad1f",
+      "styleAttributes": {
+      },
+      "text": "На потолке так же идет теплый контур для подогрева шлангов с водой ",
+      "type": "text",
+      "width": 300,
+      "x": 415,
+      "y": 80
+    },
+    {
+      "height": 60,
+      "id": "81b9f4098ef7f18a",
+      "styleAttributes": {
+      },
+      "text": "поступает в емкость",
+      "type": "text",
+      "width": 260,
+      "x": 825,
+      "y": 460
+    },
+    {
+      "height": 60,
+      "id": "11bda594a401dbb0",
+      "styleAttributes": {
+      },
+      "text": "умегчение воды",
+      "type": "text",
+      "width": 260,
+      "x": 1165,
+      "y": 230
     },
     {
       "height": 60,
@@ -1856,6 +2135,28 @@
       "width": 280,
       "x": 415,
       "y": 580
+    },
+    {
+      "height": 60,
+      "id": "b672fbbb361135a7",
+      "styleAttributes": {
+      },
+      "text": "осматическая установка",
+      "type": "text",
+      "width": 260,
+      "x": 1165,
+      "y": 290
+    },
+    {
+      "height": 60,
+      "id": "4e31cef1a67d3641",
+      "styleAttributes": {
+      },
+      "text": "Котельная система (бойлер котел и тд)",
+      "type": "text",
+      "width": 260,
+      "x": 1165,
+      "y": 350
     },
     {
       "height": 120,
@@ -1891,17 +2192,6 @@
       "y": 1170
     },
     {
-      "height": 160,
-      "id": "cf47b3b82c8657a6",
-      "styleAttributes": {
-      },
-      "text": "для подключения самого дешевого оборудования в 250000-300000 руб это две кнопки функций и даже в это не входит ",
-      "type": "text",
-      "width": 260,
-      "x": 815,
-      "y": 240
-    },
-    {
       "height": 150,
       "id": "dc4302f827045bb2",
       "styleAttributes": {
@@ -1911,296 +2201,6 @@
       "width": 260,
       "x": 785,
       "y": 1010
-    },
-    {
-      "height": 220,
-      "id": "f744094db7266011",
-      "styleAttributes": {
-      },
-      "text": "![[Pasted image 20250312223051.png]]",
-      "type": "text",
-      "width": 260,
-      "x": 945,
-      "y": 1320
-    },
-    {
-      "height": 200,
-      "id": "03b93954fc00d1d6",
-      "styleAttributes": {
-      },
-      "text": "![[Pasted image 20250312223139.png]]",
-      "type": "text",
-      "width": 260,
-      "x": 945,
-      "y": 1540
-    },
-    {
-      "height": 60,
-      "id": "161689962b64b90f",
-      "styleAttributes": {
-      },
-      "text": "Еще из полезного",
-      "type": "text",
-      "width": 260,
-      "x": 425,
-      "y": 300
-    },
-    {
-      "height": 60,
-      "id": "18a88040898ec708",
-      "styleAttributes": {
-      },
-      "text": "Зима",
-      "type": "text",
-      "width": 260,
-      "x": 95,
-      "y": -220
-    },
-    {
-      "height": 100,
-      "id": "691ec2e0776f8e52",
-      "styleAttributes": {
-      },
-      "text": "Контур поста подогревается бетонная плита на обоггреве",
-      "type": "text",
-      "width": 300,
-      "x": 415,
-      "y": -240
-    },
-    {
-      "height": 140,
-      "id": "14d1144022eb45a4",
-      "styleAttributes": {
-      },
-      "text": "При снижении температуры воды пистолеты переходят в режим автоматического протока вды и в них всегда течет вода что не дает застыть",
-      "type": "text",
-      "width": 340,
-      "x": 415,
-      "y": -100
-    },
-    {
-      "height": 100,
-      "id": "01ea63a30b28ad1f",
-      "styleAttributes": {
-      },
-      "text": "На потолке так же идет теплый контур для подогрева шлангов с водой ",
-      "type": "text",
-      "width": 300,
-      "x": 415,
-      "y": 80
-    },
-    {
-      "height": 60,
-      "id": "11bda594a401dbb0",
-      "styleAttributes": {
-      },
-      "text": "умегчение воды",
-      "type": "text",
-      "width": 260,
-      "x": 1165,
-      "y": 230
-    },
-    {
-      "height": 60,
-      "id": "b672fbbb361135a7",
-      "styleAttributes": {
-      },
-      "text": "осматическая установка",
-      "type": "text",
-      "width": 260,
-      "x": 1165,
-      "y": 290
-    },
-    {
-      "height": 60,
-      "id": "4e31cef1a67d3641",
-      "styleAttributes": {
-      },
-      "text": "Котельная система (бойлер котел и тд)",
-      "type": "text",
-      "width": 260,
-      "x": 1165,
-      "y": 350
-    },
-    {
-      "height": 60,
-      "id": "81b9f4098ef7f18a",
-      "styleAttributes": {
-      },
-      "text": "поступает в емкость",
-      "type": "text",
-      "width": 260,
-      "x": 825,
-      "y": 460
-    },
-    {
-      "height": 160,
-      "id": "5e69a3d954bb7a77",
-      "styleAttributes": {
-      },
-      "text": "![[Pasted image 20250312222218.png]]",
-      "type": "text",
-      "width": 260,
-      "x": 825,
-      "y": 580
-    },
-    {
-      "height": 80,
-      "id": "940fcd6d90c8f457",
-      "styleAttributes": {
-      },
-      "text": "Под мойкой вкопаны кольца и туда стекает вода ",
-      "type": "text",
-      "width": 260,
-      "x": 475,
-      "y": -560
-    },
-    {
-      "color": "1",
-      "height": 110,
-      "id": "e5ab28726ce60a5d",
-      "styleAttributes": {
-      },
-      "text": "мойка на 6 постовпотребляет от 700 кубов в месяц",
-      "type": "text",
-      "width": 260,
-      "x": 835,
-      "y": -780
-    },
-    {
-      "height": 60,
-      "id": "9aa4894963b2ce8b",
-      "styleAttributes": {
-      },
-      "text": "ЗП",
-      "type": "text",
-      "width": 260,
-      "x": -705,
-      "y": -440
-    },
-    {
-      "height": 60,
-      "id": "dae9e99904df1b4b",
-      "styleAttributes": {
-      },
-      "text": "Химия",
-      "type": "text",
-      "width": 260,
-      "x": -705,
-      "y": -380
-    },
-    {
-      "height": 200,
-      "id": "176998b48d3f06fb",
-      "styleAttributes": {
-      },
-      "text": "Окупаемость от  полутора до 3х лет но сильно большая разница. Маржинальность за вычетом всех расходов доходит 50-60%",
-      "type": "text",
-      "width": 280,
-      "x": -545,
-      "y": -280
-    },
-    {
-      "color": "3",
-      "height": 200,
-      "id": "a6591f12afc8a9ee",
-      "styleAttributes": {
-      },
-      "text": "80% успеха это выбор места и возможность подключения ком услуг.\nтак же важно иметь возможность заключать как можно более долгосрочный договор аренды и выбор оборудования ",
-      "type": "text",
-      "width": 380,
-      "x": -785,
-      "y": 0
-    },
-    {
-      "color": "1",
-      "height": 220,
-      "id": "8ebd45eabb23a328",
-      "styleAttributes": {
-      },
-      "text": "Открывать на два поста вообще не имеет смысла так как основыные расходы по подведению ком. строительство и тд одни и те же, и добавить еще два поста становится крайне разумным для оптимизации расходов \nТех комната будет по сути одна и та же что для 2х постов что для 4х и даже для 6",
-      "type": "text",
-      "width": 380,
-      "x": -1085,
-      "y": -280
-    },
-    {
-      "color": "3",
-      "height": 60,
-      "id": "6d57cbd7d63916d0",
-      "styleAttributes": {
-      },
-      "text": "итог от автора",
-      "type": "text",
-      "width": 260,
-      "x": -1105,
-      "y": 70
-    },
-    {
-      "height": 60,
-      "id": "5cbd5dd4604a96f6",
-      "styleAttributes": {
-      },
-      "text": "Оборудование",
-      "type": "text",
-      "width": 260,
-      "x": -985,
-      "y": 650
-    },
-    {
-      "height": 60,
-      "id": "a48a616fbe10d4bb",
-      "styleAttributes": {
-      },
-      "text": "канализация",
-      "type": "text",
-      "width": 260,
-      "x": 95,
-      "y": -480
-    },
-    {
-      "height": 60,
-      "id": "ff6088b13f733fba",
-      "styleAttributes": {
-      },
-      "text": "песок с водой стекает в канализацию ",
-      "type": "text",
-      "width": 260,
-      "x": 475,
-      "y": -420
-    },
-    {
-      "height": 60,
-      "id": "173e1aef52144392",
-      "styleAttributes": {
-      },
-      "text": "вода уходит в общий отстойник за мойкой",
-      "type": "text",
-      "width": 260,
-      "x": 835,
-      "y": -560
-    },
-    {
-      "height": 60,
-      "id": "93d40f2e49ed0982",
-      "styleAttributes": {
-      },
-      "text": "куда девается песок не раскрыто",
-      "type": "text",
-      "width": 260,
-      "x": 835,
-      "y": -420
-    },
-    {
-      "height": 60,
-      "id": "c2ff4e205e8d0c95",
-      "styleAttributes": {
-      },
-      "text": "температура минимум +3",
-      "type": "text",
-      "width": 260,
-      "x": 835,
-      "y": -100
     }
   ]
 }
