@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "/кеш",
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
 }
