@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5f5bfa7ced35d246",
+        "id": "1835a42597b76b8a",
         "type": "tabs",
         "children": [
           {
-            "id": "4307d486b286fc94",
+            "id": "3d645c5d0dd4069d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Контрагенты/Доп услуги.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Доп услуги"
-            }
-          },
-          {
-            "id": "6b2fae49c89c6b7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "список вопросов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "список вопросов"
-            }
-          },
-          {
-            "id": "1871cb2680441c42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "список вопросов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "список вопросов"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,13 +165,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1871cb2680441c42",
+  "active": "3d645c5d0dd4069d",
   "lastOpenFiles": [
+    "Контрагенты/Доп услуги.md",
+    "список вопросов.md",
     "Задачи.md",
     "Автомойка - Начало.md",
     "ОБЩИЙ ПЛАН.canvas",
-    "список вопросов.md",
-    "Контрагенты/Доп услуги.md",
     "Контрагенты/Химия.md",
     "автомойка.canvas",
     "Контрагенты/Оборудование.md",
